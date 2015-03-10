@@ -74,6 +74,9 @@ public class TextAnalysis {
 		load(adjectives, "adjectives.txt");
 		load(adverbs, "adverbs.txt");
 		loadIrregularVerbs();
+		for (IrregularVerb verb : irregularVerbs) {
+			verbs.add(verb.getBase());
+		}
 	}
 
 	private void load(Set<String> set, String fileName) throws Exception {
@@ -115,7 +118,7 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") && word.getType() == WordType.N) {
+			if (word.getWord().startsWith("?") && word.getType() == WordType.V && word.getWord().endsWith("ing")) {
 				System.out.println(word.getWord());
 				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
 			}
@@ -152,10 +155,7 @@ public class TextAnalysis {
 				break;
 			case "VVG":
 				type = WordType.V;
-				//XXX fix (e.g. whistling)
-				if (wordText.endsWith("ing")) {
-					wordText = wordText.substring(0, wordText.length() - 3);
-				}
+				wordText = vvg(wordText);
 				break;
 			case "VVN":
 				type = WordType.V;
@@ -163,10 +163,7 @@ public class TextAnalysis {
 				break;
 			case "VVZ":
 				type = WordType.V;
-				//XXX fix (e.g.applies)
-				if (wordText.endsWith("s")) {
-					wordText = wordText.substring(0, wordText.length() - 1);
-				}
+				wordText = vvz(wordText);
 				break;
 				
 			case "NN0":
@@ -201,6 +198,47 @@ public class TextAnalysis {
 				info.incrementCount();
 			}
 		}
+	}
+
+	private String vvg(String word) {
+		if (word.endsWith("ing")) {
+			String base = word.substring(0, word.length() - 3);
+			if (verbs.contains(base)) {
+				return base;
+			}
+			//e.g. whistling
+			String base2 = base + "e";
+			if (verbs.contains(base2)) {
+				return base2;
+			}
+			if (base.length() > 1) {
+				char last = base.charAt(base.length() - 1);
+				char last2 = base.charAt(base.length() - 2);
+				if (!VOWELS.contains(last) && last == last2) {
+					String base3 = base.substring(0, base.length() - 1);
+					if (verbs.contains(base3)) {
+						return base3;
+					}
+				}
+			}
+		}
+		return "?"+word;
+	}
+
+	private String vvz(String word) {
+		if (word.endsWith("s")) {
+			String base = word.substring(0, word.length() - 1);
+			if (verbs.contains(base)) {
+				return base;
+			}
+			if (word.endsWith("ies")) {
+				base = word.substring(0, word.length() - 3) + "y";
+				if (verbs.contains(base)) {
+					return base;
+				}
+			}
+		}
+		return "?"+word;
 	}
 
 	private String toSinglar(String word) {
