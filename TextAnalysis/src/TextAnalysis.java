@@ -118,7 +118,7 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") && word.getType() == WordType.V && word.getWord().endsWith("ing")) {
+			if (word.getWord().startsWith("?") && word.getType() == WordType.V) {
 				System.out.println(word.getWord());
 				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
 			}
@@ -201,6 +201,9 @@ public class TextAnalysis {
 	}
 
 	private String vvg(String word) {
+		if (word.equals("lying")) {
+			return "lie";
+		}
 		if (word.endsWith("ing")) {
 			String base = word.substring(0, word.length() - 3);
 			if (verbs.contains(base)) {
@@ -222,7 +225,7 @@ public class TextAnalysis {
 				}
 			}
 		}
-		return "?"+word;
+		return "?"+word+"_VVG";
 	}
 
 	private String vvz(String word) {
@@ -231,6 +234,12 @@ public class TextAnalysis {
 			if (verbs.contains(base)) {
 				return base;
 			}
+			if (word.endsWith("es")) {
+				base = word.substring(0, word.length() - 2);
+				if (verbs.contains(base)) {
+					return base;
+				}
+			}
 			if (word.endsWith("ies")) {
 				base = word.substring(0, word.length() - 3) + "y";
 				if (verbs.contains(base)) {
@@ -238,7 +247,7 @@ public class TextAnalysis {
 				}
 			}
 		}
-		return "?"+word;
+		return "?"+word+"_VVZ";
 	}
 
 	private String toSinglar(String word) {
@@ -260,7 +269,7 @@ public class TextAnalysis {
 				return s;
 			}
 		}
-		return "?"+word;
+		return "?"+word+"_NN2";
 	}
 
 	private String vvd(String word) {
@@ -268,10 +277,10 @@ public class TextAnalysis {
 		if (verb != null) {
 			return verb.getBase();
 		}
-		return getRegularVerbBase(word);
+		return getRegularVerbBase(word, "_VVD");
 	}
 
-	private String getRegularVerbBase(String word) {
+	private String getRegularVerbBase(String word, String tag) {
 		if (word.endsWith("d")) {
 			String base = word.substring(0, word.length() - 1);
 			if (verbs.contains(base)) {
@@ -299,7 +308,7 @@ public class TextAnalysis {
 				}
 			}
 		}
-		return "?"+word;
+		return "?"+word+tag;
 	}
 
 	private String vvn(String word) {
@@ -307,7 +316,7 @@ public class TextAnalysis {
 		if (verb != null) {
 			return verb.getBase();
 		}
-		return getRegularVerbBase(word);
+		return getRegularVerbBase(word, "_VVN");
 	}
 
 	private IrregularVerb findIrregularForPast(String wordText) {

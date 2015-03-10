@@ -63,7 +63,7 @@
 "forgive","forgave","forgiven"
 "forsake","forsook","forsaken"
 "freeze","froze","frozen"
-"get","got","got"
+"get","got",got/gotten
 "gild","gilded","gilt"
 "gird","girt","girt"
 "give","gave","given"
@@ -188,3 +188,4 @@ outshine,outshone/outshined,outshone/outshined
 "wring","wrung","wrung"
 "write","wrote","written"
 broadcast,broadcast,broadcast
+prove,proved,proved/proven
