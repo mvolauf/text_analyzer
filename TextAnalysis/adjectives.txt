@@ -1,4 +1,4 @@
-A
+
 
 aback
 abaft
@@ -83,7 +83,7 @@ awake
 aware
 awesome
 awful
-axiomatic 	B
+axiomatic 	
 
 bad
 barbarous
@@ -130,7 +130,7 @@ brown
 bumpy
 burly
 bustling
-busy 	C
+busy 	
 
 cagey
 calculating
@@ -201,7 +201,7 @@ curvy
 cut
 cute
 cute
-cynical 	D
+cynical 	
 
 daffy
 daily
@@ -267,7 +267,7 @@ dull
 dusty
 dusty
 dynamic
-dysfunctional 	E
+dysfunctional 	
 
 eager
 early
@@ -317,7 +317,7 @@ extra-large
 extra-small
 exuberant
 exultant
-F
+
 
 fabulous
 faded
@@ -387,7 +387,7 @@ furry
 furtive
 future
 futuristic
-fuzzy 	G
+fuzzy 	
 
 gabby
 gainful
@@ -432,7 +432,7 @@ guarded
 guiltless
 gullible
 gusty
-guttural 	H
+guttural 	
 
 habitual
 half
@@ -483,7 +483,7 @@ hurt
 hushed
 husky
 hypnotic
-hysterical 	I
+hysterical 	
 
 icky
 icy
@@ -521,7 +521,7 @@ internal
 invincible
 irate
 irritating
-itchy 	J
+itchy 	
 
 jaded
 jagged
@@ -536,7 +536,7 @@ juicy
 jumbled
 jumpy
 juvenile
-K
+
 
 kaput
 keen
@@ -546,7 +546,7 @@ kindly
 knotty
 knowing
 knowledgeable
-known 	L
+known 	
 
 labored
 lackadaisical
@@ -594,7 +594,7 @@ lumpy
 lush
 luxuriant
 lying
-lyrical 	M
+lyrical 	
 
 macabre
 macho
@@ -648,7 +648,7 @@ mundane
 murky
 mushy
 mute
-mysterious 	N
+mysterious 	
 
 naive
 nappy
@@ -685,7 +685,7 @@ null
 numberless
 numerous
 nutritious
-nutty 	O
+nutty 	
 
 oafish
 obedient
@@ -721,7 +721,7 @@ overjoyed
 overrated
 overt
 overwrought
-P
+
 
 painful
 painstaking
@@ -786,7 +786,7 @@ purple
 purring
 pushy
 puzzled
-puzzling 	Q
+puzzling 	
 
 quack
 quaint
@@ -801,7 +801,7 @@ quizzical
 
 
 
-	R
+	
 
 rabid
 racial
@@ -849,7 +849,7 @@ ruddy
 rude
 rural
 rustic
-ruthless 	S
+ruthless 	
 
 sable
 sad
@@ -978,7 +978,7 @@ sweet
 sweltering
 swift
 symptomatic
-synonymous 	T
+synonymous 	
 
 taboo
 tacit
@@ -1043,7 +1043,7 @@ true
 truthful
 two
 typical
-U
+
 
 ubiquitous
 ugliest
@@ -1084,7 +1084,7 @@ useful
 useless
 utopian
 utter
-uttermost 	V
+uttermost 	
 
 vacuous
 vagabond
@@ -1104,7 +1104,7 @@ vivacious
 voiceless
 volatile
 voracious
-vulgar 	W
+vulgar 	
 
 wacky
 waggish
@@ -1155,7 +1155,7 @@ wrong
 wry
 
 
-	X and Y
+	 and 
 
 xenophobic
 
@@ -1163,7 +1163,7 @@ yellow
 yielding
 young
 youthful
-yummy 	Z
+yummy 	
 
 zany
 zealous

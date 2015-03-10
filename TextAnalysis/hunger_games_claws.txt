@@ -1506,7 +1506,7 @@ We_PNP ate_VVD an_AT0 entire_AJ0 loaf_NN1 ,_PUN slice_VVB by_PRP slice_NN1
 It_PNP was_VBD good_AJ0 hearty_AJ0 bread_NN1 ,_PUN filled_VVN with_PRP 
 raisins_NN2 and_CJC nuts_NN2 ._SENT -----_PUN 
 I_PNP put_VVB my_DPS clothes_NN2 to_TO0 dry_VVI at_PRP the_AT0 fire_NN1 ,_PUN 
-crawled_VVN into_PRP bed_NN1 ,_PUN and_CJC fell_VVN into_PRP a_AT0 
+crawled_VVN into_PRP bed_NN1 ,_PUN and_CJC fell_VVD into_PRP a_AT0 
 dreamless_AJ0 sleep_NN1 ._SENT -----_PUN 
 It_PNP did_VDD n't_XX0 occur_VVI to_PRP me_PNP until_CJS the_AT0 next_ORD 
 morning_NN1 that_CJT the_AT0 boy_NN1 might_VM0 have_VHI burned_VVN the_AT0 
@@ -2053,7 +2053,7 @@ it_PNP ._SENT -----_PUN
 The_AT0 bird_NN1 is_VBZ connected_VVN to_PRP the_AT0 ring_NN1 only_AV0 by_PRP 
 its_DPS wing_NN1 tips_NN2 ._SENT -----_PUN 
 I_PNP suddenly_AV0 recognize_VVB it_PNP ._SENT -----_PUN 
-A_AT0 mockingj_NN1 ay_ITJ ._SENT -----_PUN 
+A_AT0 mockingjay_NN1 ._SENT -----_PUN 
 They_PNP 're_VBB funny_AJ0 birds_NN2 and_CJC something_PNI of_PRF a_AT0 
 slap_NN1 in_PRP the_AT0 face_NN1 to_PRP the_AT0 Capitol_NP0 ._SENT -----_PUN 
 During_PRP the_AT0 rebellion_NN1 ,_PUN the_AT0 Capitol_NP0 bred_VVD a_AT0 

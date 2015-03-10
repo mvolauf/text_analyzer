@@ -1,3 +1,4 @@
+ability
 account
 achiever
 acoustics
@@ -9,9 +10,11 @@ addition
 adjustment
 advertisement
 advice
+adult
 aftermath
 afternoon
 afterthought
+age
 agreement
 air
 airplane
@@ -42,7 +45,7 @@ attempt
 attention
 attraction
 aunt
-authority 	B
+authority
 
 babies
 baby
@@ -132,7 +135,7 @@ burst
 bushes
 business
 butter
-button 	C
+button
 
 cabbage
 cable
@@ -240,7 +243,7 @@ cup
 current
 curtain
 curve
-cushion 	D
+cushion
 
 dad
 daughter
@@ -288,7 +291,7 @@ drug
 drum
 duck
 ducks
-dust 	E
+dust
 
 ear
 earth
@@ -312,7 +315,6 @@ experience
 expert
 eye
 eyes
-F
 
 face
 fact
@@ -367,7 +369,7 @@ frogs
 front
 fruit
 fuel
-furniture 	G
+furniture
 
 alley
 game
@@ -401,7 +403,7 @@ group
 growth
 guide
 guitar
-gun 	H
+gun
 
 hair
 haircut
@@ -439,7 +441,7 @@ hour
 house
 houses
 humor
-hydrant 	I
+hydrant
 
 ice
 icicle
@@ -455,7 +457,7 @@ insurance
 interest
 invention
 iron
-island 	J
+island
 
 jail
 jam
@@ -470,7 +472,6 @@ journey
 judge
 juice
 jump
-K
 
 kettle
 key
@@ -483,7 +484,7 @@ kitty
 knee
 knife
 knot
-knowledge 	L
+knowledge
 
 laborer
 lace
@@ -523,7 +524,7 @@ love
 low
 lumber
 lunch
-lunchroom 	M
+lunchroom
 
 machine
 magic
@@ -567,7 +568,7 @@ mountain
 mouth
 move
 muscle
-music 	N
+music
 
 nail
 name
@@ -586,7 +587,7 @@ nose
 note
 notebook
 number
-nut 	O
+nut 	
 
 oatmeal
 observation
@@ -604,7 +605,7 @@ ornament
 oven
 owl
 owner
-P
+
 
 page
 pail
@@ -679,7 +680,7 @@ pull
 pump
 punishment
 purpose
-push 	Q
+push 	
 
 quarter
 quartz
@@ -690,7 +691,7 @@ quiet
 quill
 quilt
 quince
-quiver 	R
+quiver 	
 
 rabbit
 rabbits
@@ -736,7 +737,7 @@ rose
 route
 rub
 rule
-run 	S
+run 	
 
 sack
 sail
@@ -863,7 +864,7 @@ surprise
 sweater
 swim
 swing
-system 	T
+system 	
 
 table
 tail
@@ -929,13 +930,13 @@ turkey
 turn
 twig
 twist
-U
+
 
 umbrella
 uncle
 underwear
 unit
-use 	V
+use 	
 
 vacation
 value
@@ -952,7 +953,7 @@ visitor
 voice
 volcano
 volleyball
-voyage 	W
+voyage 	
 
 walk
 wall
@@ -1005,3 +1006,13 @@ zephyr
 zinc
 zipper
 zoo
+
+worker
+
+
+
+adversary
+affectation
+apothecary
+appetite
+area

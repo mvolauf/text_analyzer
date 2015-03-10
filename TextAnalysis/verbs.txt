@@ -1,10 +1,11 @@
+abandon
 abide
 accelerate
 accept
 accomplish
 achieve
 acquire
-acted
+act
 activate
 adapt
 add
@@ -14,12 +15,14 @@ admire
 admit
 adopt
 advise
+affect
 afford
 agree
+alarm
 alert
 alight
 allow
-altered
+alter
 amuse
 analyze
 announce
@@ -29,7 +32,7 @@ anticipate
 apologize
 appear
 applaud
-applied
+apply
 appoint
 appraise
 appreciate
@@ -57,7 +60,7 @@ avoid
 awake
 	
 
-B
+
 
 back
 bake
@@ -124,7 +127,7 @@ buy
 buzz
 	
 
-C
+
 
 calculate
 call
@@ -219,7 +222,7 @@ cut
 cycle
 	
 
-D
+
 
 dam
 damage
@@ -284,17 +287,17 @@ dry
 dust
 dwell
 
-E
+
 
 earn
 eat
-edited
+edit
 educate
 eliminate
 embarrass
 employ
 empty
-enacted
+enact
 encourage
 end
 endure
@@ -329,7 +332,7 @@ extend
 extract
 	
 
-F
+
 
 face
 facilitate
@@ -382,7 +385,7 @@ frighten
 fry
 	
 
-G
+
 
 gather
 gaze
@@ -409,7 +412,7 @@ guess
 guide
 	
 
-H
+
 
 hammer
 hand
@@ -441,7 +444,7 @@ hurry
 hurt
 hypothesize
 
-I
+
 
 identify
 ignore
@@ -486,7 +489,7 @@ irritate
 itch
 	
 
-J
+
 
 jail
 jam
@@ -499,7 +502,7 @@ jump
 justify
 	
 
-K
+
 
 keep
 kept
@@ -513,7 +516,7 @@ knot
 know
 	
 
-L
+
 
 label
 land
@@ -550,7 +553,7 @@ look
 lose
 love
 
-M
+
 
 maintain
 make
@@ -599,7 +602,7 @@ multiply
 murder
 	
 
-N
+
 
 nail
 name
@@ -615,7 +618,7 @@ notice
 number
 	
 
-O
+
 
 obey
 object
@@ -642,7 +645,7 @@ owe
 own
 	
 
-P
+
 
 pack
 paddle
@@ -728,7 +731,7 @@ purchase
 push
 put
 
-Q
+
 
 qualify
 question
@@ -736,7 +739,7 @@ queue
 quit
 	
 
-R
+
 
 race
 radiate
@@ -813,7 +816,7 @@ run
 rush
 	
 
-S
+
 
 sack
 sail
@@ -984,7 +987,7 @@ synthesize
 systemize
 	
 
-T
+
 
 tabulate
 take
@@ -1043,7 +1046,7 @@ tutor
 twist
 type
 
-U
+
 
 undergo
 understand
@@ -1063,7 +1066,7 @@ use
 utilize
 	
 
-V
+
 
 vanish
 verbalize
@@ -1072,7 +1075,7 @@ vex
 visit
 	
 
-W
+
 
 wail
 wait
@@ -1128,3 +1131,93 @@ yell
 
 zip
 zoom
+
+arm
+associate
+barbecue
+allot
+blacken
+blast
+bother
+braid
+brew
+buckle
+capture
+chaperone
+clench
+climb
+clutch
+cocoon
+commit
+conceal
+conflict
+cook
+cool
+craft
+crumple
+defeat
+deteriorate
+die
+discuss
+dismiss
+distinguish
+
+
+
+doom
+dot
+doze
+dye
+electrify
+encase
+encounter
+engulf
+fashion
+feast
+floor
+glance
+gorge
+
+handcuff
+harvest
+immobilize
+link
+mention
+gratify
+groom
+haul
+herd
+huddle
+
+
+imprison
+lift
+mesmerize
+misdirect
+misjudge
+mold
+nickname
+obliterate
+
+perch
+relieve
+require
+respect
+result
+sacrifice
+sanction
+seat
+seem
+shift
+slice
+struggle
+stun
+swallow
+swap
+televise
+transmit
+vaporize
+view
+volunteer
+witness
+wound

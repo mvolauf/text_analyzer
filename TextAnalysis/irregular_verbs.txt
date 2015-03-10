@@ -101,6 +101,7 @@
 "meet","met","met"
 "mow","mowed","mown"
 "must","had to","had to"
+outshine,outshone/outshined,outshone/outshined
 "pay","paid","paid"
 "put","put","put"
 "read","read","read"
@@ -186,3 +187,4 @@
 "withdraw","withdrew","withdrawn"
 "wring","wrung","wrung"
 "write","wrote","written"
+broadcast,broadcast,broadcast

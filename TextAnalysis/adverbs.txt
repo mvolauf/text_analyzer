@@ -1,4 +1,4 @@
-A
+
 
 abnormally
 absentmindedly
@@ -13,7 +13,7 @@ angrily
 annually
 anxiously
 arrogantly
-awkwardly 	B
+awkwardly 	
 
 badly
 bashfully
@@ -29,7 +29,7 @@ briefly
 brightly
 briskly
 broadly
-busily 	C
+busily 	
 
 calmly
 carefully
@@ -49,7 +49,7 @@ correctly
 courageously
 crossly
 cruelly
-curiously 	D
+curiously 	
 
 daily
 daintily
@@ -63,7 +63,7 @@ delightfully
 diligently
 dimly
 doubtfully
-dreamily 	E
+dreamily 	
 
 easily
 elegantly
@@ -78,7 +78,7 @@ eventually
 exactly
 excitedly
 extremely
-F
+
 
 fairly
 faithfully
@@ -98,7 +98,7 @@ freely
 frenetically
 frightfully
 fully
-furiously 	G
+furiously 	
 
 generally
 generously
@@ -108,7 +108,7 @@ gleefully
 gracefully
 gratefully
 greatly
-greedily 	H
+greedily 	
 
 happily
 hastily
@@ -120,7 +120,7 @@ highly
 honestly
 hopelessly
 hourly
-hungrily 	I
+hungrily 	
 
 immediately
 innocently
@@ -130,7 +130,7 @@ intensely
 intently
 interestingly
 inwardly
-irritably 	J
+irritably 	
 
 jaggedly
 jealously
@@ -141,7 +141,7 @@ jovially
 jubilantly
 judgementally
 justly
-K
+
 
 keenly
 kiddingly
@@ -152,7 +152,7 @@ knavishly
 knottily
 knowingly
 knowledgeably
-kookily 	L
+kookily 	
 
 lazily
 less
@@ -165,7 +165,7 @@ longingly
 loosely
 lovingly
 loudly
-loyally 	M
+loyally 	
 
 madly
 majestically
@@ -178,7 +178,7 @@ monthly
 more
 mortally
 mostly
-mysteriously 	N
+mysteriously 	
 
 naturally
 nearly
@@ -188,7 +188,7 @@ nervously
 never
 nicely
 noisily
-not 	O
+not 	
 
 obediently
 obnoxiously
@@ -201,7 +201,7 @@ openly
 optimistically
 overconfidently
 owlishly
-P
+
 
 painfully
 partially
@@ -216,7 +216,7 @@ potentially
 powerfully
 promptly
 properly
-punctually 	Q
+punctually 	
 
 quaintly
 quarrelsomely
@@ -228,7 +228,7 @@ quicker
 quickly
 quietly
 quirkily
-quizzically 	R
+quizzically 	
 
 rapidly
 rarely
@@ -245,7 +245,7 @@ righteously
 rightfully
 rigidly
 roughly
-rudely 	S
+rudely 	
 
 sadly
 safely
@@ -282,7 +282,7 @@ surprisingly
 suspiciously
 sweetly
 swiftly
-sympathetically 	T
+sympathetically 	
 
 tenderly
 tensely
@@ -297,7 +297,7 @@ tremendously
 triumphantly
 truly
 truthfully
-U
+
 
 ultimately
 unabashedly
@@ -320,7 +320,7 @@ urgently
 usefully
 uselessly
 usually
-utterly 	V
+utterly 	
 
 vacantly
 vaguely
@@ -333,7 +333,7 @@ viciously
 victoriously
 violently
 vivaciously
-voluntarily 	W
+voluntarily 	
 
 warmly
 weakly
@@ -347,14 +347,14 @@ wisely
 woefully
 wonderfully
 worriedly
-wrongly 	Y
+wrongly 	
 
 yawningly
 yearly
 yearningly
 yesterday
 yieldingly
-youthfully 	Z
+youthfully 	
 
 zealously
 zestfully

@@ -24,7 +24,17 @@ public class TextAnalysis {
 //	private static final Pattern PAGE_PATTERN = Pattern.compile("\\[page\\s*(\\d+)\\]");
 //	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-]+)\\[([a-z]+)\\]");
 	private static final Pattern PAGE_PATTERN = Pattern.compile("page(\\d+)_");
-	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-]+)_([A-Z]+)");
+	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-]+)_([A-Z0-9]+)");
+
+	private static final Set<Character> VOWELS = new HashSet<Character>();
+	static {
+		VOWELS.add('a');
+		VOWELS.add('e');
+		VOWELS.add('i');
+		VOWELS.add('o');
+		VOWELS.add('u');
+		VOWELS.add('y');
+	}
 
 	public static void main(String[] args) throws Exception {
 		StringBuilder sb = new StringBuilder();
@@ -49,22 +59,42 @@ public class TextAnalysis {
 	}
 
 	private final String text;
-	private List<Page> pages = new ArrayList<Page>();
-	private Map<Word, WordInfo> infoMap = new HashMap<Word, WordInfo>();
-	private List<IrregularVerb> verbs = new ArrayList<IrregularVerb>();
+	private final List<Page> pages = new ArrayList<Page>();
+	private final Map<Word, WordInfo> infoMap = new HashMap<Word, WordInfo>();
+	private final List<IrregularVerb> irregularVerbs = new ArrayList<IrregularVerb>();
+	private final Set<String> nouns = new HashSet<>();
+	private final Set<String> verbs = new HashSet<>();
+	private final Set<String> adjectives = new HashSet<>();
+	private final Set<String> adverbs = new HashSet<>();
 
 	public TextAnalysis(String text) throws Exception {
 		this.text = text;
-		readIrregularVerbs();
+		load(nouns, "nouns.txt");
+		load(verbs, "verbs.txt");
+		load(adjectives, "adjectives.txt");
+		load(adverbs, "adverbs.txt");
+		loadIrregularVerbs();
 	}
 
-	private void readIrregularVerbs() throws Exception {
+	private void load(Set<String> set, String fileName) throws Exception {
+		BufferedReader reader = new BufferedReader(new FileReader(fileName));
+		String line;
+		while ((line = reader.readLine()) != null) {
+			String word = line.trim();
+			if (!word.isEmpty()) {
+				set.add(word);
+			}
+		}
+		reader.close();
+	}
+
+	private void loadIrregularVerbs() throws Exception {
 		BufferedReader bufferedReader = new BufferedReader(new FileReader("irregular_verbs.txt"));
 		String line;
 		while ((line = bufferedReader.readLine()) != null) {
 			line = line.replace("\"", "");
 			String[] parts = line.split(",");
-			verbs.add(new IrregularVerb(parts[0], parts[1], parts[2]));
+			irregularVerbs.add(new IrregularVerb(parts[0], parts[1], parts[2]));
 		}
 		bufferedReader.close();
 	}
@@ -85,7 +115,10 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
+			if (word.getWord().startsWith("?") && word.getType() == WordType.N) {
+				System.out.println(word.getWord());
+				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
+			}
 			String sep = "\t";
 			ps.println(word.getWord() + sep + word.getType() + sep + info.getFirstPage() + sep + info.getCount());
 		}
@@ -119,6 +152,7 @@ public class TextAnalysis {
 				break;
 			case "VVG":
 				type = WordType.V;
+				//XXX fix (e.g. whistling)
 				if (wordText.endsWith("ing")) {
 					wordText = wordText.substring(0, wordText.length() - 3);
 				}
@@ -129,12 +163,34 @@ public class TextAnalysis {
 				break;
 			case "VVZ":
 				type = WordType.V;
+				//XXX fix (e.g.applies)
 				if (wordText.endsWith("s")) {
 					wordText = wordText.substring(0, wordText.length() - 1);
 				}
 				break;
+				
+			case "NN0":
+			case "NN1":
+				type = WordType.N;
+				break;
+			case "NN2":
+				type = WordType.N;
+				wordText = toSinglar(wordText);
+				break;
+
+			case "AJ0":
+			case "AJC":
+			case "AJS":
+				type = WordType.ADJ;
+				break;
+
+			case "AV0":
+			case "AVP":
+			case "AVQ":
+				type = WordType.ADV;
+				break;
 			}
-			
+
 			if (type != null) {
 				Word word = new Word(wordText, type);
 				WordInfo info = infoMap.get(word);
@@ -147,14 +203,91 @@ public class TextAnalysis {
 		}
 	}
 
-	private String vvd(String wordText) {
-		// TODO Auto-generated method stub
-		return wordText;
+	private String toSinglar(String word) {
+		if (word.endsWith("s")) {
+			String s = word.substring(0, word.length() - 1);
+			if (nouns.contains(s)) {
+				return s;
+			}
+		}
+		if (word.endsWith("es")) {
+			String s = word.substring(0, word.length() - 2);
+			if (nouns.contains(s)) {
+				return s;
+			}
+		}
+		if (word.endsWith("ies")) {
+			String s = word.substring(0, word.length() - 3) + "y";
+			if (nouns.contains(s)) {
+				return s;
+			}
+		}
+		return "?"+word;
 	}
 
-	private String vvn(String wordText) {
-		// TODO Auto-generated method stub
-		return wordText;
+	private String vvd(String word) {
+		IrregularVerb verb = findIrregularForPast(word);
+		if (verb != null) {
+			return verb.getBase();
+		}
+		return getRegularVerbBase(word);
+	}
+
+	private String getRegularVerbBase(String word) {
+		if (word.endsWith("d")) {
+			String base = word.substring(0, word.length() - 1);
+			if (verbs.contains(base)) {
+				return base;
+			}
+		}
+		if (word.endsWith("ed")) {
+			{
+				String base = word.substring(0, word.length() - 2);
+				if (verbs.contains(base)) {
+					return base;
+				}
+			}
+			if (word.length() > 3 && !VOWELS.contains(word.charAt(word.length() - 3))
+					&& word.charAt(word.length() - 3) == word.charAt(word.length() - 4)) {
+				String base = word.substring(0, word.length() - 3);
+				if (verbs.contains(base)) {
+					return base;
+				}
+			}
+			if (word.endsWith("ied")) {
+				String base = word.substring(0, word.length() - 3) + "y";
+				if (verbs.contains(base)) {
+					return base;
+				}
+			}
+		}
+		return "?"+word;
+	}
+
+	private String vvn(String word) {
+		IrregularVerb verb = findIrregularForPp(word);
+		if (verb != null) {
+			return verb.getBase();
+		}
+		return getRegularVerbBase(word);
+	}
+
+	private IrregularVerb findIrregularForPast(String wordText) {
+		for (IrregularVerb verb : irregularVerbs) {
+			if (verb.isPastForm(wordText)) {
+				return verb;
+			}
+		}
+		return null;
+	}
+
+	private IrregularVerb findIrregularForPp(String wordText) {
+		for (IrregularVerb verb : irregularVerbs) {
+			if (verb.isPpForm(wordText)) {
+				return verb;
+			}
+		}
+		return null;
 	}
 
 	private void createPages() {
