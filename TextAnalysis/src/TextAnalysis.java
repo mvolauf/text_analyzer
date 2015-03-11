@@ -118,7 +118,7 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") && word.getType() == WordType.V) {
+			if (word.getWord().startsWith("?") && word.getType() == WordType.N) {
 				System.out.println(word.getWord());
 				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
 			}
@@ -172,7 +172,7 @@ public class TextAnalysis {
 				break;
 			case "NN2":
 				type = WordType.N;
-				wordText = toSinglar(wordText);
+				wordText = nn2(wordText);
 				break;
 
 			case "AJ0":
@@ -250,7 +250,17 @@ public class TextAnalysis {
 		return "?"+word+"_VVZ";
 	}
 
-	private String toSinglar(String word) {
+	private String nn2(String word) {
+		//check if plural is ok
+		if (nouns.contains(word)) {
+			return word;
+		}
+		if ("lives".equals(word)) {
+			return "life";
+		}
+		if ("loaves".equals(word)) {
+			return "loaf";
+		}
 		if (word.endsWith("s")) {
 			String s = word.substring(0, word.length() - 1);
 			if (nouns.contains(s)) {
