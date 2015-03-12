@@ -118,7 +118,7 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") && word.getType() == WordType.ADJ) {
+			if (word.getWord().startsWith("?") /*&& word.getType() == WordType.ADJ*/) {
 				System.out.println(word.getWord());
 				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
 			}
@@ -239,6 +239,9 @@ public class TextAnalysis {
 		if (word.equals("best")) {
 			return "good";
 		}
+		if (word.equals("best-looking")) {
+			return "good-looking";
+		}
 		if (word.equals("worst")) {
 			return "bad";
 		}
@@ -324,6 +327,12 @@ public class TextAnalysis {
 		}
 		if ("loaves".equals(word)) {
 			return "loaf";
+		}
+		if ("knives".equals(word)) {
+			return "knife";
+		}
+		if ("leaves".equals(word)) {
+			return "leaf";
 		}
 		if (word.endsWith("s")) {
 			String s = word.substring(0, word.length() - 1);

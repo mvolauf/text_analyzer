@@ -258,7 +258,7 @@ Happy_AJ0 Hunger_NN1 Games_NN2 !_PUN "_SENT -----_PUN
 He_PNP plucks_VVZ a_AT0 few_DT0 blackberries_NN2 from_PRP the_AT0 bushes_NN2 
 around_PRP us_PNP ._SENT -----_PUN 
 "_PUQ And_CJC may_VM0 the_AT0 odds_NN2 "_PUQ He_PNP tosses_VVZ a_AT0 berry_NN1 
-in_PRP a_AT0 high_AJ0 arc_NN1 toward_PRP me._NN0 page9_UNC I_ZZ0 catch_VVB 
+in_PRP a_AT0 high_AJ0 arc_NN1 toward_PRP me_PNP ._SENT page9_UNC I_ZZ0 catch_VVB 
 it_PNP in_PRP my_DPS mouth_NN1 and_CJC break_VVB the_AT0 delicate_AJ0 skin_NN1 
 with_PRP my_DPS teeth_NN2 ._SENT -----_PUN 
 The_AT0 sweet_AJ0 tartness_NN1 explodes_VVZ across_PRP my_DPS tongue_NN1 
@@ -480,7 +480,7 @@ Since_CJS neither_DT0 of_PRF us_PNP really_AV0 has_VHZ a_AT0 group_NN1 of_PRF
 friends_NN2 ,_PUN we_PNP seem_VVB to_TO0 end_VVI up_AVP together_AV0 a_AV0 
 lot_AV0 at_PRP school_NN1 ._SENT -----_PUN 
 Eating_VVG lunch_NN1 ,_PUN sitting_VVG next_PRP to_PRP each_PNX other_PNX 
-at_PRP assemblies_NN2 ,_PUN partnering_VVG for_PRP sports_NN2 activities_NN2 
+at_PRP assemblies_NN2 ,_PUN partnering_VVG for_PRP sports_AJ0 activities_NN2 
 ._SENT -----_PUN 
 We_PNP rarely_AV0 talk_VVB ,_PUN which_DTQ suits_VVZ us_PNP both_DT0 just_AV0 
 fine_AJ0 ._SENT -----_PUN 
@@ -543,7 +543,7 @@ you_PNP turn_VVB twelve_CRD ._SENT -----_PUN
 That_DT0 year_NN1 ,_PUN your_DPS name_NN1 is_VBZ entered_VVN once_AV0 ._SENT 
 -----_PUN 
 page15_UNC At_PRP thirteen_CRD ,_PUN twice_AV0 ._SENT -----_PUN 
-And_AV0 so_AV0 on_AV0 and_AV0 so_AV0 on_AV0 until_CJS you_PNP reach_VVB 
+And+so+on_AV0 and+so+on_AV0 until_CJS you_PNP reach_VVB 
 the_AT0 age_NN1 of_PRF eighteen_CRD ,_PUN the_AT0 final_AJ0 year_NN1 of_PRF 
 eligibility_NN1 ,_PUN when_CJS your_DPS name_NN1 goes_VVZ into_PRP the_AT0 
 pool_NN1 seven_CRD times_NN2 ._SENT -----_PUN 
@@ -586,7 +586,7 @@ And_CJC even_CJS though_CJS the_AT0 rules_NN2 were_VBD set_VVN up_AVP by_PRP
 the_AT0 Capitol_NP0 ,_PUN not_XX0 the_AT0 districts_NN2 ,_PUN certainly_AV0 
 not_XX0 Madge_NP0 's_POS family_NN1 ,_PUN it_PNP 's_VBZ hard_AV0 not_XX0 
 to_TO0 resent_VVI those_DT0 who_PNQ do_VDB n't_XX0 have_VHI to_TO0 sign_VVI 
-up_AVP for_PRP tesserae._NN0 page16_UNC Gale_NP0 knows_VVZ his_DPS anger_NN1 
+up_AVP for_PRP tesserae_NN0 ._SENT page16_UNC Gale_NP0 knows_VVZ his_DPS anger_NN1 
 at_PRP Madge_NP0 is_VBZ misdirected_VVN ._SENT -----_PUN 
 On_PRP other_AJ0 days_NN2 ,_PUN deep_AV0 in_PRP the_AT0 woods_NN2 ,_PUN I_PNP 
 've_VHB listened_VVN to_PRP him_PNP rant_AJ0 about_PRP how_AVQ the_AT0 
@@ -685,7 +685,7 @@ page18_UNC I_ZZ0 protect_VVB Prim_AJ0 in_PRP every_AT0 way_NN1 I_PNP can_VM0
 ,_PUN but_CJC I_PNP 'm_VBB powerless_AJ0 against_PRP the_AT0 reaping_NN1 
 ._SENT -----_PUN 
 The_AT0 anguish_NN1 I_PNP always_AV0 feel_VVB when_AVQ she_PNP 's_VBZ in_PRP 
-pain_NN1 wells_NN2 up_AVP in_PRP my_DPS chest_NN1 and_CJC threatens_VVZ to_TO0 
+pain_NN1 wells_VVZ up_AVP in_PRP my_DPS chest_NN1 and_CJC threatens_VVZ to_TO0 
 register_VVI on_PRP my_DPS (_PUL ace_NN1 ._SENT -----_PUN 
 I_PNP notice_VVB her_DPS blouse_NN1 has_VHZ pulled_VVN out_PRP of_PRP her_DPS 
 skirt_NN1 in_PRP the_AT0 back_NN1 again_AV0 and_CJC force_NN1 myself_PNX 
@@ -832,7 +832,7 @@ from_PRP a_AT0 burning_AJ0 desert_NN1 to_PRP a_AT0 frozen_AJ0 wasteland_NN1
 ._SENT -----_PUN 
 Over_PRP a_AT0 period_NN1 of_PRF several_DT0 weeks_NN2 ,_PUN the_AT0 
 competitors_NN2 must_VM0 fight_VVI to_PRP the_AT0 death_NN1 ._SENT -----_PUN 
-The_AT0 last_ORD tribute_NN1 standing_NN1 wins_NN2 ._SENT -----_PUN 
+The_AT0 last_ORD tribute_NN1 standing_NN1 wins_VVZ ._SENT -----_PUN 
 Taking_VVG the_AT0 kids_NN2 from_PRP our_DPS districts_NN2 ,_PUN forcing_VVG 
 them_PNP to_TO0 kill_VVI one_PNX another_PNX while_CJS we_PNP watch_VVB 
 this_DT0 is_VBZ the_AT0 Capitol_NP0 's_POS way_NN1 of_PRF reminding_VVG us_PNP 
@@ -871,7 +871,7 @@ two_CRD ._SENT -----_PUN
 Only_AV0 one_CRD is_VBZ still_AV0 alive_AJ0 ._SENT -----_PUN 
 Haymitch_VVB Abernathy_NP0 ,_PUN a_AT0 paunchy_NN1 ,_PUN middle-aged_AJ0 
 man_NN1 ,_PUN who_PNQ at_PRP this_DT0 moment_NN1 appears_VVZ hollering_VVG 
-something_PNI unintelligible_AJ0 ,_PUN staggers_NN2 onto_PRP the_AT0 stage_NN1 
+something_PNI unintelligible_AJ0 ,_PUN staggers_VVZ onto_PRP the_AT0 stage_NN1 
 ,_PUN and_CJC falls_VVZ into_PRP the_AT0 third_ORD chair_NN1 ._SENT -----_PUN 
 He_PNP 's_VBZ drunk_AJ0 ._SENT -----_PUN 
 Very_AJ0 ._SENT -----_PUN 
@@ -933,7 +933,7 @@ Effie_NP0 Trinket_NP0 crosses_VVZ back_AVP to_PRP the_AT0 podium_NN1 ,_PUN
 smoothes_VVZ the_AT0 slip_NN1 of_PRF paper_NN1 ,_PUN and_CJC reads_VVZ out_AVP 
 the_AT0 name_NN1 in_PRP a_AT0 clear_AJ0 voice_NN1 ._SENT -----_PUN 
 And_CJC it_PNP 's_VBZ not_XX0 me_PNP ._SENT -----_PUN 
-It_PNP 's_VBZ Primrose_NP0 Everdeen._NP0 page24_UNC One_CRD time_NN1 ,_PUN 
+It_PNP 's_VBZ Primrose_NP0 Everdeen_NP0 ._SENT page24_UNC One_CRD time_NN1 ,_PUN 
 when_AVQ I_PNP was_VBD in_PRP a_AT0 blind_AJ0 in_PRP a_AT0 tree_NN1 ,_PUN 
 waiting_VVG motionless_AJ0 for_PRP game_NN1 to_TO0 wander_VVI by_AVP ,_PUN 
 I_PNP dozed_VVD off_AVP and_CJC fell_VVD ten_CRD feet_NN2 to_PRP the_AT0 
@@ -2266,7 +2266,7 @@ sponsors_NN2 ,_PUN and_CJC dictates_VVZ the_AT0 presentation_NN1 of_PRF
 any_DT0 gifts_NN2 ._SENT -----_PUN 
 Haymitch_NN1 can_VM0 well_AV0 be_VBI the_AT0 difference_NN1 between_PRP 
 your_DPS life_NN1 and_CJC your_DPS death_NN1 !_PUN "_SENT -----_PUN 
-Just_AV0 then_AV0 ,_PUN Haymitch_VVB staggers_NN2 into_PRP the_AT0 
+Just_AV0 then_AV0 ,_PUN Haymitch_VVB staggers_VVZ into_PRP the_AT0 
 compartment_NN1 ._SENT -----_PUN 
 "_PUQ I_PNP miss_VVB supper_NN1 ?_PUN "_PUQ he_PNP says_VVZ in_PRP a_AT0 
 slurred_AJ0 voice_NN1 ._SENT -----_PUN 
@@ -2939,7 +2939,7 @@ He_PNP is_VBZ already_AV0 fighting_VVG hard_AV0 to_TO0 stay_VVI alive_AJ0
 ._SENT -----_PUN 
 Which_DTQ also_AV0 means_VVZ that_DT0 kind_NN1 Peeta_NP0 Mellark_NP0 ,_PUN 
 the_AT0 boy_NN1 who_PNQ gave_VVD me_PNP the_AT0 bread_NN1 ,_PUN is_VBZ 
-fighting_VVG hard_AV0 to_TO0 kill_VVI me._NN0 page70_UNC R-i-i-i-p_NP0 !_SENT 
+fighting_VVG hard_AV0 to_TO0 kill_VVI me_PNP ._SENT page70_UNC R-i-i-i-p_ITJ !_SENT 
 -----_PUN 
 I_PNP grit_VVB my_DPS teeth_NN2 as_CJS Venia_NP0 ,_PUN a_AT0 woman_NN1 
 with_PRP aqua_UNC hair_NN1 and_CJC gold_NN1 tattoos_NN2 above_PRP her_DPS 
@@ -3141,7 +3141,7 @@ couches_NN2 and_CJC takes_VVZ his_DPS place_NN1 across_AV0 from_PRP me_PNP
 ._SENT -----_PUN 
 He_PNP presses_VVZ a_AT0 button_NN1 on_PRP the_AT0 side_NN1 of_PRF the_AT0 
 table_NN1 ._SENT -----_PUN 
-The_AT0 top_AJ0 splits_NN2 and_CJC from_PRP below_AV0 rises_VVZ a_AT0 
+The_AT0 top_AJ0 splits_VVZ and_CJC from_PRP below_AV0 rises_VVZ a_AT0 
 second_ORD tabletop_NN1 that_CJT holds_VVZ our_DPS lunch_NN1 ._SENT -----_PUN 
 Chicken_NN1 and_CJC chunks_NN2 of_PRF oranges_NN2 cooked_VVN in_PRP a_AT0 
 creamy_AJ0 sauce_NN1 laid_VVN on_PRP a_AT0 bed_NN1 of_PRF pearly_AJ0 
@@ -3527,7 +3527,7 @@ spray_NN1 from_PRP a_AT0 canister_NN1 ._SENT -----_PUN
 I_PNP realize_VVB I_PNP 'm_VBB still_AV0 glued_VVN to_PRP Peeta_NP0 and_CJC 
 force_VVB my_DPS stiff_AJ0 fingers_NN2 to_TO0 open_VVI ._SENT -----_PUN 
 We_PNP both_DT0 massage_VVB our_DPS hands_NN2 ._SENT -----_PUN 
-"_PUQ Thanks_NN2 for_PRP keeping_VVG hold_NN1 of_PRF me_PNP ._SENT -----_PUN 
+"_PUQ Thanks_ITJ for_PRP keeping_VVG hold_NN1 of_PRF me_PNP ._SENT -----_PUN 
 I_PNP was_VBD getting_VVG a_AV0 little_AV0 shaky_AJ0 there_AV0 ,_PUN "_PUQ 
 says_VVZ Peeta_NP0 ._SENT -----_PUN 
 "_PUQ It_PNP did_VDD n't_XX0 show_VVI ,_PUN "_PUQ I_PNP tell_VVB him_PNP 
@@ -3849,7 +3849,7 @@ Even_AV0 our_DPS own_DT0 party_NN1 lets_VVZ out_AVP an_AT0 "_PUQ Ahh_ITJ !_PUN
 "_PUQ as_CJS they_PNP show_VVB us_PNP coming_VVG out_PRP of_PRP the_AT0 
 Remake_NN1 Center_NN1 ._SENT -----_PUN 
 "_PUQ Whose_DTQ idea_NN1 was_VBD the_AT0 hand_NN1 holding_VVG ?_PUN "_PUQ 
-asks_VVZ Haymitch._NP0 page91_UNC "_PUQ Cinna_NP0 's_POS ,_PUN "_PUQ says_VVZ 
+asks_VVZ Haymitch_NP0 ._SENT page91_UNC "_PUQ Cinna_NP0 's_POS ,_PUN "_PUQ says_VVZ 
 Portia_NP0 ._SENT -----_PUN 
 "_PUQ Just_AV0 the_AT0 perfect_AJ0 touch_NN1 of_PRF rebellion_NN1 ,_PUN "_PUQ 
 says_VVZ Haymitch_NN1 ._SENT -----_PUN 
@@ -3870,7 +3870,7 @@ fiery_AJ0 costumes_NN2 ._SENT -----_PUN
 session_NN1 ._SENT -----_PUN 
 Meet_VVB me_PNP for_PRP breakfast_NN1 and_CJC I_PNP 'll_VM0 tell_VVI you_PNP 
 exactly_AV0 how_AVQ I_PNP want_VVB you_PNP to_TO0 play_VVI it_PNP ,_PUN "_PUQ 
-says_VVZ Haymitch_NN1 to_PRP Peeta_NP0 and_CJC I._NP0 "_PUQ Now_AV0 go_VVB 
+says_VVZ Haymitch_NN1 to_PRP Peeta_NP0 and_CJC I_NP0 ._SENT "_PUQ Now_AV0 go_VVB 
 get_VVB some_DT0 sleep_NN1 while_CJS the_AT0 grown-ups_NN2 talk_VVB ._PUN 
 "_SENT -----_PUN 
 Peeta_NP0 and_CJC I_PNP walk_VVB together_AV0 down_PRP the_AT0 corridor_NN1 
@@ -3894,7 +3894,7 @@ Even_CJS if_CJS he_PNP repeated_VVD the_AT0 story_NN1 ,_PUN it_PNP could_VM0
 n't_XX0 do_VDI me_PNP much_DT0 harm_NN1 ._SENT -----_PUN 
 It_PNP was_VBD just_AV0 something_PNI I_PNP witnessed_VVD ._SENT -----_PUN 
 And_CJC he_PNP lied_VVD as_AV0 much_DT0 as_CJS I_PNP did_VDD about_PRP 
-Delly_NP0 Cartwright._NP0 page92_UNC I_ZZ0 realize_VVB I_PNP do_VDB want_VVI 
+Delly_NP0 Cartwright_NP0 ._SENT page92_UNC I_ZZ0 realize_VVB I_PNP do_VDB want_VVI 
 to_TO0 talk_VVI to_PRP someone_PNI about_PRP the_AT0 girl_NN1 ._SENT -----_PUN 
 Someone_PNI who_PNQ might_VM0 be_VBI able_AJ0 to_TO0 help_VVI me_PNP 
 figure_NN1 out_AVP her_DPS story_NN1 ._SENT -----_PUN 

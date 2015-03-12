@@ -287,6 +287,7 @@ dry
 dust
 dwell
 
+well
 
 
 earn
