@@ -1,5 +1,3 @@
-
-
 aback
 abaft
 abandoned
@@ -110,6 +108,7 @@ blue
 blue-eyed
 blushing
 boiling
+bold
 boorish
 bored
 boring
@@ -162,6 +161,7 @@ clear
 clever
 cloistered
 cloudy
+close
 closed
 clumsy
 cluttered
@@ -1046,7 +1046,6 @@ typical
 
 
 ubiquitous
-ugliest
 ugly
 ultra
 unable
@@ -1170,3 +1169,8 @@ zealous
 zesty
 zippy
 zonked
+
+severe
+
+choosy
+deadly

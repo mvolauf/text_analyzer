@@ -118,7 +118,7 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") && word.getType() == WordType.N) {
+			if (word.getWord().startsWith("?") && word.getType() == WordType.ADJ) {
 				System.out.println(word.getWord());
 				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
 			}
@@ -176,9 +176,15 @@ public class TextAnalysis {
 				break;
 
 			case "AJ0":
+				type = WordType.ADJ;
+				break;
 			case "AJC":
+				type = WordType.ADJ;
+				wordText = ajc(wordText);
+				break;
 			case "AJS":
 				type = WordType.ADJ;
+				wordText = ajs(wordText);
 				break;
 
 			case "AV0":
@@ -198,6 +204,64 @@ public class TextAnalysis {
 				info.incrementCount();
 			}
 		}
+	}
+
+	private String ajc(String word) {
+		if (word.equals("better")) {
+			return "good";
+		}
+		if (word.equals("worse")) {
+			return "bad";
+		}
+		if (word.equals("farther") || word.equals("further") ) {
+			return "far";
+		}
+		if (word.endsWith("er")) {
+			String base = word.substring(0, word.length() - 2);
+			if (adjectives.contains(base)) {
+				return base;
+			}
+			base = word.substring(0, word.length() - 1);
+			if (adjectives.contains(base)) {
+				return base;
+			}
+		}
+		if (word.endsWith("ier")) {
+			String base = word.substring(0, word.length() - 3) + "y";
+			if (adjectives.contains(base)) {
+				return base;
+			}
+		}
+		return "?"+word+"_AJC";
+	}
+
+	private String ajs(String word) {
+		if (word.equals("best")) {
+			return "good";
+		}
+		if (word.equals("worst")) {
+			return "bad";
+		}
+		if (word.equals("farthest") || word.equals("furthest") ) {
+			return "far";
+		}
+		if (word.endsWith("est")) {
+			String base = word.substring(0, word.length() - 3);
+			if (adjectives.contains(base)) {
+				return base;
+			}
+			base = word.substring(0, word.length() - 2);
+			if (adjectives.contains(base)) {
+				return base;
+			}
+		}
+		if (word.endsWith("iest")) {
+			String base = word.substring(0, word.length() - 4) + "y";
+			if (adjectives.contains(base)) {
+				return base;
+			}
+		}
+		return "?"+word+"_AJS";
 	}
 
 	private String vvg(String word) {
