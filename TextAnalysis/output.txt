@@ -1,4 +1,6 @@
-a	adv	8	21
+a bit	adv	17	9
+a little	adv	8	7
+a lot	adv	13	3
 aback	adv	73	1
 abandon	v	49	1
 abandoned	adj	12	1
@@ -61,7 +63,8 @@ alarm	n	30	2
 alcohol	n	79	3
 alike	adv	4	1
 alive	adj	21	7
-all	adv	13	16
+all	adv	13	15
+all of a sudden	adv	56	1
 allot	v	39	1
 allow	v	6	5
 almost	adv	5	16
@@ -231,7 +234,6 @@ bird	n	44	8
 birdcall	n	95	1
 birds	n	49	8
 bit	n	6	5
-bit	adv	17	9
 bite	v	45	1
 bitter	adj	30	3
 bizarre	adj	68	1
@@ -1466,7 +1468,6 @@ list	v	20	2
 listen	v	5	7
 literally	adv	83	1
 little	adj	3	11
-little	adv	8	7
 live	v	5	10
 live	adj	5	3
 liver	n	87	1
@@ -1491,7 +1492,6 @@ loosen	v	82	1
 lor	n	56	1
 lose	v	31	4
 loss	n	30	1
-lot	adv	13	4
 lot	n	12	8
 lotion	n	71	1
 loud	adv	92	2
@@ -1712,7 +1712,7 @@ occur	v	27	2
 odd	adj	47	4
 oddly	adv	68	2
 odds	n	8	8
-of	adv	3	16
+of	adv	3	15
 off	adv	10	32
 off-center	adj	22	1
 offer	v	87	1
@@ -2489,7 +2489,6 @@ substitution	n	75	1
 success	n	85	1
 successful	adj	5	1
 successfully	adv	85	1
-sudden	adv	56	1
 suddenly	adv	8	8
 suffer	v	41	1
 sugar	n	22	1

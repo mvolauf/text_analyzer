@@ -240,7 +240,7 @@ crack_NN1 of_PRF dawn_NN1 to_TO0 trade_VVI for_PRP it_PNP ._SENT -----_PUN
 Think_VVB the_AT0 old_AJ0 man_NN1 was_VBD feeling_VVG sentimental_AJ0 this_DT0 
 morning_NN1 ,_PUN "_PUQ says_VVZ Gale_NN1 ._SENT -----_PUN 
 "_PUQ Even_AV0 wished_VVD me_PNP luck_NN1 ._PUN "_SENT -----_PUN 
-"_PUQ Well_AV0 ,_PUN we_PNP all_DT0 feel_VVB a_AV0 little_AV0 closer_AV0 
+"_PUQ Well_AV0 ,_PUN we_PNP all_DT0 feel_VVB a+little_AV0 closer_AV0 
 today_AV0 ,_PUN do_VDB n't_XX0 we_PNP ?_PUN "_SENT -----_PUN 
 I_PNP say_VVB ,_PUN not_XX0 even_AV0 bothering_VVG to_TO0 roll_VVI my_DPS 
 eyes_NN2 ._SENT -----_PUN 
@@ -462,7 +462,7 @@ wink_NN1 ._SENT -----_PUN
 No_PNI one_PNI in_PRP the_AT0 Seam_NN1 would_VM0 turn_VVI up_AVP their_DPS 
 nose_NN1 at_PRP a_AT0 good_AJ0 leg_NN1 of_PRF wild_AJ0 dog_NN1 ,_PUN but_CJC 
 the_AT0 Peacekeepers_NN2 who_PNQ come_VVB to_PRP the_AT0 Hob_NN1 can_VM0 
-afford_VVI to_TO0 be_VBI a_AV0 little_AV0 choosier_AJC ._SENT -----_PUN 
+afford_VVI to_TO0 be_VBI a+little_AV0 choosier_AJC ._SENT -----_PUN 
 When_CJS we_PNP finish_VVB our_DPS business_NN1 at_PRP the_AT0 market_NN1 
 ,_PUN we_PNP go_VVB to_PRP the_AT0 back_NN1 door_NN1 of_PRF the_AT0 mayor_NN1 
 's_POS house_NN1 to_TO0 sell_VVI half_DT0 the_AT0 strawberries_NN2 ,_PUN 
@@ -477,8 +477,8 @@ all_AV0 right_AV0 ._SENT -----_PUN
 She_PNP just_AV0 keeps_VVZ to_PRP herself_PNX ._SENT -----_PUN 
 Like_VVB me_PNP ._SENT -----_PUN 
 Since_CJS neither_DT0 of_PRF us_PNP really_AV0 has_VHZ a_AT0 group_NN1 of_PRF 
-friends_NN2 ,_PUN we_PNP seem_VVB to_TO0 end_VVI up_AVP together_AV0 a_AV0 
-lot_AV0 at_PRP school_NN1 ._SENT -----_PUN 
+friends_NN2 ,_PUN we_PNP seem_VVB to_TO0 end_VVI up_AVP together_AV0
+a+lot_AV0 at_PRP school_NN1 ._SENT -----_PUN 
 Eating_VVG lunch_NN1 ,_PUN sitting_VVG next_PRP to_PRP each_PNX other_PNX 
 at_PRP assemblies_NN2 ,_PUN partnering_VVG for_PRP sports_AJ0 activities_NN2 
 ._SENT -----_PUN 
@@ -637,7 +637,7 @@ My_DPS mother_NN1 wears_VVZ a_AT0 fine_AJ0 dress_NN1 from_PRP her_DPS
 apothecary_NN1 days_NN2 ._SENT -----_PUN 
 Prim_AJ0 is_VBZ in_PRP my_DPS first_ORD reaping_AJ0 outfit_NN1 ,_PUN a_AT0 
 skirt_NN1 and_CJC ruffled_AJ0 blouse_NN1 ._SENT -----_PUN 
-It_PNP 's_VBZ a_AV0 bit_AV0 big_AJ0 on_PRP her_PNP ,_PUN but_CJC my_DPS 
+It_PNP 's_VBZ a+bit_AV0 big_AJ0 on_PRP her_PNP ,_PUN but_CJC my_DPS 
 mother_NN1 has_VHZ made_VVN it_PNP stay_VVI with_PRP pins_NN2 ._SENT -----_PUN 
 Even_AV0 so_AV0 ,_PUN she_PNP 's_VBZ having_VHG trouble_NN1 keeping_VVG 
 the_AT0 blouse_NN1 tucked_VVD in_AVP at_PRP the_AT0 back_NN1 ._SENT -----_PUN 
@@ -894,7 +894,7 @@ And_CJC may_VM0 the_AT0 odds_NN2 be_VBI ever_AV0 in_PRP your_DPS favor_NN1
 Her_DPS pink_AJ0 hair_NN1 must_VM0 be_VBI a_AT0 wig_NN1 because_CJS her_DPS 
 curls_NN2 have_VHB shifted_VVN slightly_AV0 off-center_AJ0 since_CJS her_DPS 
 encounter_NN1 with_PRP Haymitch_NP0 ._SENT -----_PUN 
-She_PNP goes_VVZ on_AVP a_AV0 bit_AV0 about_PRP what_DTQ an_AT0 honor_NN1 
+She_PNP goes_VVZ on_AVP a+bit_AV0 about_PRP what_DTQ an_AT0 honor_NN1 
 it_PNP is_VBZ to_TO0 be_VBI here_AV0 ,_PUN page23_UNC although_CJS 
 everyone_PNI knows_VVZ she_PNP 's_VBZ just_AV0 aching_VVG to_TO0 get_VVI 
 bumped_VVN up_PRP to_PRP a_AT0 better_AJC district_NN1 where_CJS they_PNP 
@@ -1757,7 +1757,7 @@ I_PNP ca_VM0 n't_XX0 believe_VVI he_PNP 's_VHZ come_VVN to_TO0 visit_VVI
 me_PNP ._SENT -----_PUN 
 After_PRP all_DT0 ,_PUN I_PNP 'll_VM0 be_VBI trying_VVG to_TO0 kill_VVI 
 his_DPS son_NN1 soon_AV0 ._SENT -----_PUN 
-But_CJC we_PNP do_VDB know_VVI each_PNX other_PNX a_AV0 bit_AV0 ,_PUN and_CJC 
+But_CJC we_PNP do_VDB know_VVI each_PNX other_PNX a+bit_AV0 ,_PUN and_CJC 
 he_PNP knows_VVZ Prim_AJ0 even_AV0 better_AV0 ._SENT -----_PUN 
 When_CJS she_PNP sells_VVZ her_DPS goat_NN1 cheeses_NN2 at_PRP the_AT0 Hob_NN1 
 ,_PUN she_PNP puts_VVZ two_CRD of_PRF them_PNP page43_UNC aside_AV0 for_PRP 
@@ -2231,7 +2231,7 @@ about_PRP the_AT0 crowd_NN1 's_POS refusal_NN1 to_TO0 applaud_VVI ._SENT
 -----_PUN 
 The_AT0 silent_AJ0 salute_NN1 ._SENT -----_PUN 
 One_CRD says_VVZ that_DT0 District_NN1 12_CRD has_VHZ always_AV0 been_VBN 
-a_AV0 bit_AV0 backward_AV0 but_CJC that_DT0 local_AJ0 customs_NN2 can_VM0 
+a+bit_AV0 backward_AV0 but_CJC that_DT0 local_AJ0 customs_NN2 can_VM0 
 be_VBI charming_AJ0 ._SENT -----_PUN 
 As_CJS if_CJS on_PRP cue_NN1 ,_PUN Haymitch_NP0 falls_VVZ off_PRP the_AT0 
 stage_NN1 ,_PUN and_CJC they_PNP groan_VVB comically_AV0 ._SENT -----_PUN 
@@ -2242,15 +2242,15 @@ They_PNP cut_VVB to_PRP the_AT0 anthem_NN1 again_AV0 ,_PUN and_CJC the_AT0
 pro-gram_NN1 ends_NN2 ._SENT -----_PUN 
 Effie_NP0 Trinket_NP0 is_VBZ disgruntled_AJ0 about_PRP the_AT0 state_NN1 
 her_DPS wig_NN1 was_VBD in_AVP ._SENT -----_PUN 
-"_PUQ Your_DPS mentor_NN1 has_VHZ a_AV0 lot_AV0 to_TO0 learn_VVI about_PRP 
+"_PUQ Your_DPS mentor_NN1 has_VHZ a+lot_AV0 to_TO0 learn_VVI about_PRP 
 presentation_NN1 ._SENT -----_PUN 
-A_AV0 lot_AV0 about_PRP televised_AJ0 behavior_NN1 ._PUN "_SENT -----_PUN 
+A_DT0 lot_DT0 about_PRP televised_AJ0 behavior_NN1 ._PUN "_SENT -----_PUN 
 Peeta_NP0 unexpectedly_AV0 laughs_VVZ ._SENT -----_PUN 
 "_PUQ He_PNP was_VBD drunk_AJ0 ,_PUN "_PUQ says_VVZ Peeta_NP0 ._PUN "_SENT 
 -----_PUN 
 He_PNP 's_VBZ drunk_VVN every_AT0 year_NN1 ._PUN "_SENT -----_PUN 
 "_PUQ Every_AT0 day_NN1 ,_PUN "_PUQ I_PNP add_VVB ._SENT -----_PUN 
-I_PNP ca_VM0 n't_XX0 help_VVI smirking_VVG a_AV0 little_AV0 ._SENT -----_PUN 
+I_PNP ca_VM0 n't_XX0 help_VVI smirking_VVG a+little_AV0 ._SENT -----_PUN 
 Effie_NP0 Trinket_NP0 makes_VVZ it_PNP sound_VVI like_PRP Haymitch_NP0 
 just_AV0 has_VHZ somewhat_AV0 rough_AJ0 manners_NN2 that_CJT could_VM0 be_VBI 
 corrected_VVN with_PRP a_AT0 few_DT0 tips_NN2 from_PRP her_PNP ._SENT 
@@ -2297,7 +2297,7 @@ He_PNP wipes_VVZ his_DPS hand_NN1 on_PRP his_DPS nose_NN1 ,_PUN smearing_VVG
 his_DPS face_NN1 with_PRP vomit_NN1 ._SENT -----_PUN 
 "_PUQ Let_VM0 's_VM0 get_VVI you_PNP back_AVP to_PRP your_DPS room_NN1 ,_PUN 
 "_PUQ says_VVZ Peeta_NP0 ._SENT -----_PUN 
-"_PUQ Clean_VVB you_PNP up_AVP a_AV0 bit_AV0 ._PUN "_SENT -----_PUN 
+"_PUQ Clean_VVB you_PNP up_AVP a+bit_AV0 ._PUN "_SENT -----_PUN 
 We_PNP half-lead_VVB half-carry_VVB Haymitch_VVB back_AVP to_PRP his_DPS 
 compartment_NN1 ._SENT -----_PUN 
 Since_CJS we_PNP ca_VM0 n't_XX0 exactly_AV0 set_VVI him_PNP down_AVP on_PRP 
@@ -2308,7 +2308,7 @@ He_PNP hardly_AV0 notices_VVZ ._SENT -----_PUN
 "_PUQ It_PNP 's_VBZ okay_AJ0 ,_PUN "_PUQ Peeta_NP0 says_VVZ to_PRP me_PNP 
 ._SENT -----_PUN 
 "_PUQ I_PNP 'll_VM0 take_VVI it_PNP from_PRP here_AV0 ._PUN "_SENT -----_PUN 
-I_PNP ca_VM0 n't_XX0 help_VVI feeling_VVG a_AV0 little_AV0 grateful_AJ0 
+I_PNP ca_VM0 n't_XX0 help_VVI feeling_VVG a+little_AV0 grateful_AJ0 
 since_CJS the_AT0 last_ORD thing_NN1 I_PNP want_VVB to_TO0 do_VDI is_VBZ 
 strip_NN1 down_PRP Haymitch_NP0 ,_PUN wash_VVB the_AT0 vomit_NN1 out_PRP 
 of_PRP his_DPS chest_NN1 hair_NN1 ,_PUN and_CJC tuck_VVB him_PNP into_PRP 
@@ -2337,8 +2337,8 @@ people_NN0 myself_PNX ._SENT -----_PUN
 But_CJC making_VVG them_PNP deal_VVI with_PRP Haymitch_NN1 might_VM0 be_VBI 
 a_AT0 small_AJ0 form_NN1 of_PRF revenge_NN1 ._SENT -----_PUN 
 So_AV0 I_PNP 'm_VBB pondering_VVG the_AT0 reason_NN1 why_AVQ he_PNP 
-insists_VVZ on_PRP taking_VVG care_NN1 of_PRF Haymitch_NP0 and_CJC all_AV0 
-of_AV0 a_AV0 sudden_AV0 I_PNP think_VVB ,_PUN It_PNP 's_VBZ because_CJS he_PNP 
+insists_VVZ on_PRP taking_VVG care_NN1 of_PRF Haymitch_NP0 and_CJC
+all+of+a+sudden_AV0 I_PNP think_VVB ,_PUN It_PNP 's_VBZ because_CJS he_PNP 
 's_VBZ being_VBG kind_NN1 ._SENT -----_PUN 
 Just_AV0 as_CJS he_PNP was_VBD kind_AJ0 to_TO0 give_VVI me_PNP the_AT0 
 bread_NN1 ._SENT -----_PUN 
@@ -2438,7 +2438,7 @@ Then_AV0 she_PNP acted_VVD confused_AJ0 and_CJC went_VVD back_AVP to_PRP
 bed_NN1 ,_PUN but_CJC when_AVQ the_AT0 stew_NN1 was_VBD done_VDN ,_PUN we_PNP 
 made_VVD her_PNP eat_VVB a_AT0 bowl_NN1 ._SENT -----_PUN 
 page59_UNC The_AT0 woods_NN2 became_VVD our_DPS savior_NN1 ,_PUN and_CJC 
-each_DT0 day_NN1 I_PNP went_VVD a_AV0 bit_AV0 farther_AV0 into_PRP its_DPS 
+each_DT0 day_NN1 I_PNP went_VVD a+bit_AV0 farther_AV0 into_PRP its_DPS 
 arms_NN2 ._SENT -----_PUN 
 It_PNP was_VBD slow-going_AJ0 at_AV0 first_AV0 ,_PUN but_CJC I_PNP was_VBD 
 determined_VVN to_TO0 feed_VVI us_PNP ._SENT -----_PUN 
@@ -2804,7 +2804,7 @@ throw_VVB it_PNP into_PRP the_AT0 wall_NN1 across_PRP the_AT0 room_NN1 ._SENT
 -----_PUN 
 I_PNP was_VBD actually_AV0 just_AV0 hoping_VVG to_TO0 get_VVI a_AT0 good_AJ0 
 solid_AJ0 stick_NN1 ,_PUN but_CJC it_PNP lodges_VVZ in_PRP the_AT0 seam_NN1 
-between_PRP two_CRD panels_NN2 ,_PUN making_VVG me_PNP look_NN1 a_AV0 lot_AV0 
+between_PRP two_CRD panels_NN2 ,_PUN making_VVG me_PNP look_NN1 a+lot_AV0 
 better_AV0 than_CJS I_PNP am_VBB ._SENT -----_PUN 
 "_PUQ Stand_VVB over_AV0 here_AV0 ._SENT -----_PUN 
 Both_DT0 of_PRF you_PNP ,_PUN "_PUQ says_VVZ Haymitch_NP0 ,_PUN nodding_VVG 
@@ -3259,7 +3259,7 @@ Cinna_NN1 plans_VVZ to_TO0 light_VVI them_PNP on_PRP fire_NN1 just_AV0
 before_PRP our_DPS chariot_NN1 rolls_NN2 into_PRP the_AT0 streets_NN2 ._SENT 
 -----_PUN 
 "_PUQ It_PNP 's_VBZ not_XX0 real_AJ0 flame_NN1 ,_PUN of_AV0 course_AV0 ,_PUN 
-just_AV0 a_AV0 little_AV0 synthetic_AJ0 fire_NN1 Portia_NP0 and_CJC I_PNP 
+just_AV0 a+little_AV0 synthetic_AJ0 fire_NN1 Portia_NP0 and_CJC I_PNP 
 came_VVD up_AVP with_PRP ._SENT -----_PUN 
 Youll_NN1 be_VBI perfectly_AV0 safe_AJ0 ,_PUN "_PUQ he_PNP says_VVZ ._SENT 
 -----_PUN 
@@ -3291,7 +3291,7 @@ accompany_VVB him_PNP in_AVP ,_PUN and_CJC everyone_PNI is_VBZ absolutely_AV0
 giddy_AJ0 with_PRP excitement_NN1 over_PRP what_DTQ a_AT0 splash_NN1 well_AV0 
 make_VVB ._SENT -----_PUN 
 Except_CJS Cinna_NP0 ._SENT -----_PUN 
-He_PNP just_AV0 seems_VVZ a_AV0 bit_AV0 weary_AJ0 as_CJS he_PNP accepts_VVZ 
+He_PNP just_AV0 seems_VVZ a+bit_AV0 weary_AJ0 as_CJS he_PNP accepts_VVZ 
 congratulations_NN2 ._SENT -----_PUN 
 We_PNP 're_VBB whisked_VVN down_AVP to_PRP the_AT0 bottom_AJ0 level_NN1 of_PRF 
 the_AT0 Remake_NN1 Center_NN1 ,_PUN which_DTQ is_VBZ essentially_AV0 a_AT0 
@@ -3421,7 +3421,7 @@ Smiles_NP0 ._SENT -----_PUN
 They_PNP 're_VBB going_VVG to_TO0 love_VVI you_PNP !_SENT -----_PUN 
 I_PNP hear_VVB Cinna_NP0 's_POS voice_NN1 in_PRP my_DPS head_NN1 ._SENT 
 -----_PUN 
-I_PNP lift_VVB my_DPS chin_NN1 a_AV0 bit_AV0 higher_AJC ,_PUN put_VVN on_PRP 
+I_PNP lift_VVB my_DPS chin_NN1 a+bit_AV0 higher_AJC ,_PUN put_VVN on_PRP 
 my_DPS most_AV0 winning_AJ0 smile_NN1 ,_PUN and_CJC wave_NN1 with_PRP my_DPS 
 free_AJ0 hand_NN1 ._SENT -----_PUN 
 I_PNP 'm_VBB glad_AJ0 now_AV0 I_PNP have_VHB Peeta_NP0 to_TO0 clutch_VVI 
@@ -3447,7 +3447,7 @@ For_PRP the_AT0 first_ORD time_NN1 ,_PUN I_PNP feel_VVB a_AT0 flicker_NN1
 of_PRF hope_NN1 rising_VVG up_AVP in_PRP me_PNP ._SENT -----_PUN 
 Surely_AV0 ,_PUN there_EX0 must_VM0 be_VBI one_CRD sponsor_NN1 willing_AJ0 
 to_TO0 take_VVI me_PNP on_AVP !_SENT -----_PUN 
-And_CJC with_PRP a_AV0 little_AV0 extra_AJ0 help_NN1 ,_PUN some_DT0 food_NN1 
+And_CJC with_PRP a+little_AV0 extra_AJ0 help_NN1 ,_PUN some_DT0 food_NN1 
 ,_PUN the_AT0 right_AJ0 weapon_NN1 ,_PUN why_AVQ should_VM0 I_PNP count_VVI 
 myself_PNX out_PRP of_PRP the_AT0 Games_NN2 ?_SENT -----_PUN 
 Someone_PNI throws_VVZ me_PNP a_AT0 red_AJ0 rose_NN1 ._SENT -----_PUN 
@@ -3528,7 +3528,7 @@ I_PNP realize_VVB I_PNP 'm_VBB still_AV0 glued_VVN to_PRP Peeta_NP0 and_CJC
 force_VVB my_DPS stiff_AJ0 fingers_NN2 to_TO0 open_VVI ._SENT -----_PUN 
 We_PNP both_DT0 massage_VVB our_DPS hands_NN2 ._SENT -----_PUN 
 "_PUQ Thanks_ITJ for_PRP keeping_VVG hold_NN1 of_PRF me_PNP ._SENT -----_PUN 
-I_PNP was_VBD getting_VVG a_AV0 little_AV0 shaky_AJ0 there_AV0 ,_PUN "_PUQ 
+I_PNP was_VBD getting_VVG a+little_AV0 shaky_AJ0 there_AV0 ,_PUN "_PUQ 
 says_VVZ Peeta_NP0 ._SENT -----_PUN 
 "_PUQ It_PNP did_VDD n't_XX0 show_VVI ,_PUN "_PUQ I_PNP tell_VVB him_PNP 
 ._SENT -----_PUN 
@@ -3927,7 +3927,7 @@ I_PNP shake_VVB my_DPS head_NN1 ._SENT -----_PUN
 "_PUQ Cinna_NP0 showed_VVD me_PNP ._SENT -----_PUN 
 You_PNP can_VM0 practically_AV0 see_VVI the_AT0 whole_AJ0 city_NN1 ._SENT 
 -----_PUN 
-The_AT0 wind_NN1 's_VBZ a_AV0 bit_AV0 loud_AV0 ,_PUN though_AV0 ._PUN "_SENT 
+The_AT0 wind_NN1 's_VBZ a+bit_AV0 loud_AV0 ,_PUN though_AV0 ._PUN "_SENT 
 -----_PUN 
 I_PNP translate_VVB this_DT0 into_PRP "_PUQ No_AT0 one_CRD will_NN1 
 overhear_VVB us_PNP talking_VVG "_PUQ in_PRP my_DPS head_NN1 ._SENT -----_PUN 
