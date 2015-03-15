@@ -9,6 +9,8 @@ absence	n	51	1	-	2547
 accent	n	8	3	-	4181
 accept	v	59	4	-	767
 accident	n	30	2	-	1720
+accompany	v	78	1	-	2460
+account	v	94	1	384	1923
 account	n	48	1	384	1075
 ace	n	18	1	-	-
 ache	v	23	1	-	-
@@ -56,6 +58,7 @@ always	adv	5	21	162	206
 amount	n	30	5	-	782
 amusing	adj	54	1	-	-
 anger	n	16	2	-	2382
+anger	v	41	1	-	-
 angle	n	78	1	-	3014
 angry	adj	17	2	712	1717
 anguish	n	18	1	-	-
@@ -108,6 +111,7 @@ average	n	48	1	-	1454
 avoid	v	7	3	-	911
 awful	adj	46	2	-	3304
 awkwardly	adv	43	1	-	-
+babble	v	83	1	-	-
 baby	n	32	2	-	589
 back	n	13	16	131	323
 back	v	34	2	131	1877
@@ -127,6 +131,7 @@ banner	n	19	1	-	-
 barbarism	n	85	2	-	-
 barbecue	v	77	1	-	-
 bargain	n	71	1	-	-
+bark	v	52	1	-	-
 barrier	n	67	1	-	2632
 base	v	85	1	-	537
 basil	n	4	2	-	-
@@ -158,6 +163,7 @@ beg	v	4	1	-	3483
 begin	v	7	21	810	164
 behavior	n	53	1	-	674
 being	n	72	2	98	1686
+believe	v	26	3	266	213
 bell	n	35	3	-	2669
 belly	n	4	2	-	3842
 belong	v	62	1	-	1648
@@ -180,6 +186,7 @@ black	n	78	1	378	1993
 blackberry	n	8	2	-	-
 blacken	v	37	1	-	-
 blade	n	66	1	-	3174
+blame	v	51	1	-	1810
 blanket	n	31	1	-	3332
 blast	v	79	1	-	-
 blather	n	48	1	-	-
@@ -193,6 +200,8 @@ blossom	n	60	2	-	-
 blouse	n	17	6	-	-
 blow	v	6	4	-	1421
 blow	n	35	1	-	3822
+blow-dry	v	86	1	-	-
+bludgeon	v	45	1	-	-
 blue	adj	9	8	858	845
 blurt	v	7	2	-	-
 body	n	3	13	504	314
@@ -212,6 +221,7 @@ bowl	n	4	3	-	1843
 box	n	86	1	994	796
 boy	n	21	20	295	383
 boys	n	20	5	783	-
+brace	v	65	1	-	-
 braid	n	72	1	-	-
 braid	v	4	3	-	-
 brain	n	92	1	-	1193
@@ -300,6 +310,7 @@ cats	n	4	2	-	-
 cause	n	32	2	622	1010
 cause	v	16	2	622	602
 cautiously	adv	73	1	-	-
+celebrate	v	12	1	-	2037
 center	n	49	10	-	531
 ceremony	n	63	7	-	2694
 certain	adj	11	5	344	578
@@ -338,6 +349,7 @@ chop	n	51	1	-	-
 chuckle	v	63	1	-	-
 chunk	n	13	4	-	4552
 cinder	n	5	1	-	-
+circle	v	71	1	-	4793
 circle	n	63	8	-	1515
 circulation	n	81	1	-	-
 citizen	n	15	3	-	1088
@@ -362,6 +374,7 @@ client	n	60	1	-	1161
 climb	v	3	10	-	1575
 cling	v	36	2	-	4656
 clip	v	70	1	-	-
+clock	v	41	1	-	-
 clock	n	20	1	-	2658
 close	v	5	9	393	650
 close	adj	4	2	393	882
@@ -378,6 +391,7 @@ cocoon	v	3	1	-	-
 coffee	n	63	3	-	1395
 cold	n	45	1	463	3518
 cold	adj	3	3	463	888
+collapse	v	31	1	-	3240
 collar	n	39	1	-	4597
 collect	v	9	4	-	1325
 color	v	72	1	-	4668
@@ -402,6 +416,7 @@ competition	n	41	3	-	1352
 competitor	n	21	1	-	3287
 complete	adj	77	1	-	1447
 compliment	n	14	1	-	-
+compliment	v	97	1	-	-
 compose	v	29	1	-	3408
 conceal	v	5	2	-	-
 concentrate	v	40	2	-	2379
@@ -410,6 +425,7 @@ concession	n	73	1	-	-
 conclude	v	84	1	-	1680
 concoction	n	52	1	-	-
 condition	n	78	1	808	630
+condone	v	27	1	-	-
 conduct	v	39	2	875	1166
 confidence	n	81	2	893	1882
 confirm	v	83	1	-	1864
@@ -418,6 +434,7 @@ conflict	v	37	1	-	-
 confuse	v	14	2	-	3550
 confused	adj	58	1	-	-
 confusion	n	25	2	-	3362
+congratulate	v	28	1	-	-
 congratulations	n	78	1	-	-
 connect	v	49	1	-	1645
 connection	n	37	1	-	1427
@@ -432,6 +449,7 @@ contestant	n	45	2	-	-
 continue	v	28	3	-	294
 contract	v	89	1	-	-
 conversation	n	11	3	531	1168
+convince	v	30	2	-	2056
 cook	v	18	5	-	1426
 cook	n	60	1	-	4059
 cookie	n	43	6	-	3297
@@ -501,6 +519,7 @@ dark	n	4	3	395	2170
 darken	v	23	1	-	-
 darkness	n	68	1	-	2671
 darling	n	72	1	-	-
+dart	v	72	1	-	-
 daughter	n	13	4	480	635
 dawn	n	8	1	-	4044
 day	n	3	39	123	90
@@ -521,6 +540,7 @@ defeat	v	21	1	-	3358
 defeated	adj	33	1	-	-
 defense	n	34	1	-	658
 define	v	77	1	-	1214
+deflect	v	65	1	-	-
 delicacy	n	22	2	-	-
 delicate	adj	9	2	-	3824
 deliver	v	36	1	-	1295
@@ -540,6 +560,7 @@ deteriorate	v	62	1	-	-
 determination	n	86	1	-	3883
 determine	v	52	2	-	774
 deterrent	n	5	1	-	-
+detest	v	64	1	-	-
 devotion	n	30	1	-	-
 diamond	n	86	2	-	4085
 dictate	v	54	2	-	4989
@@ -590,6 +611,7 @@ door	n	12	26	210	344
 doorway	n	47	1	-	3902
 dot	v	57	1	-	-
 double	v	30	1	-	2870
+double-check	v	59	1	-	-
 doubt	n	89	1	375	1920
 doze	v	24	1	-	-
 drab	adj	13	1	-	-
@@ -664,12 +686,14 @@ entitle	v	59	1	-	3495
 entrails	n	4	3	-	-
 entrance	n	91	1	-	2899
 entry	n	14	3	-	2356
+enunciate	v	50	1	-	-
 equal	adj	9	1	-	1844
 escape	v	39	3	-	2051
 escort	n	20	1	-	-
+escort	v	79	1	-	-
 especially	adv	18	1	767	516
 evasive	adj	44	1	-	-
-even	adv	4	40	147	107
+even	adv	4	41	147	107
 evening	n	5	6	290	965
 event	n	20	3	-	526
 eventually	adv	7	1	-	1110
@@ -677,6 +701,7 @@ exactly	adv	22	8	707	749
 examine	v	52	3	-	1169
 excellent	adj	72	1	-	2140
 exchange	n	13	2	-	1522
+exchange	v	20	3	-	4189
 excitement	n	29	4	-	3536
 exciting	adj	29	1	-	2949
 execute	v	6	1	-	3676
@@ -723,6 +748,7 @@ fasten	v	50	1	-	-
 fate	n	32	1	-	2941
 father	n	6	34	199	268
 fault	n	14	2	-	2873
+favor	v	97	1	-	2523
 favor	n	9	6	-	3437
 favorite	n	56	2	-	2900
 fear	n	33	2	400	988
@@ -735,12 +761,14 @@ feeling	n	88	1	372	807
 feet	n	4	8	499	-
 female	adj	50	1	-	1403
 fence	n	5	7	-	2676
+fend	v	22	1	-	-
 festivity	n	21	1	-	-
 field	n	5	3	952	440
 fight	n	42	1	-	1573
 fight	v	21	9	-	677
 fighter	n	65	1	-	3055
 figure	n	92	1	637	553
+figure	v	12	1	637	1081
 file	v	19	1	-	1895
 fill	v	11	9	-	687
 filth	n	72	1	-	-
@@ -752,6 +780,7 @@ fire	n	20	16	316	654
 firefly	n	93	1	-	-
 firelight	n	80	2	-	-
 fish	n	10	9	-	950
+fish	v	12	1	-	4877
 fishing	n	76	1	-	2039
 fist	n	25	1	-	3919
 fit	v	69	1	682	1356
@@ -760,6 +789,7 @@ flame	n	36	6	-	3227
 flashy	adj	92	1	-	-
 flat	adj	68	1	-	2592
 flat	n	8	1	-	-
+flatten	v	5	1	-	-
 flavor	n	76	1	-	3164
 flea	n	4	1	-	-
 fleck	n	73	1	-	-
@@ -768,6 +798,7 @@ flesh-eater	n	5	1	-	-
 flicker	n	81	1	-	-
 flicker	v	82	2	-	-
 flight	n	44	2	-	1302
+flit	v	37	1	-	-
 float	v	60	2	-	3166
 flood	n	8	1	-	3617
 flood	v	68	1	-	4576
@@ -781,6 +812,7 @@ fluffy	adj	37	2	-	-
 fluttering	adj	77	1	-	-
 fly	v	49	4	-	946
 focus	n	80	1	-	1437
+focus	v	20	4	-	689
 follow	v	5	7	809	326
 fondness	n	13	2	-	-
 food	n	6	18	-	367
@@ -820,10 +852,12 @@ fun	n	42	1	-	1902
 funeral	n	28	1	-	2908
 funny	adj	9	3	-	1803
 gadget	n	86	1	-	-
+gain	v	81	1	-	1259
 gale	n	7	15	-	-
 gallon	n	12	1	-	-
 game	n	7	32	-	274
 garden	n	33	5	726	1047
+gasp	v	25	2	-	-
 gate	n	5	1	781	2026
 gather	v	10	8	-	1354
 gathering	n	59	1	-	4038
@@ -832,7 +866,7 @@ general	adj	81	1	474	806
 generally	adv	16	3	945	1206
 gently	adv	80	1	-	2776
 gesture	n	28	2	-	2994
-get	v	4	52	185	39
+get	v	4	53	185	39
 getup	n	76	1	-	-
 ghost	n	23	1	-	3292
 giant	adj	67	1	-	2562
@@ -859,6 +893,7 @@ glue	v	83	1	-	-
 go	v	11	62	104	35
 go	n	65	2	104	-
 goat	n	4	8	-	4726
+gobble	v	47	1	-	-
 gold	n	14	8	-	1262
 good	adj	6	31	83	110
 good-bye	n	28	2	-	-
@@ -889,6 +924,7 @@ grin	v	77	1	-	4198
 grin	n	20	1	-	4667
 grip	v	24	2	-	-
 grip	n	66	3	-	3730
+grit	v	70	1	-	-
 groan	v	53	1	-	-
 grocer	n	33	1	-	-
 groom	v	88	1	-	-
@@ -913,6 +949,8 @@ guy	n	71	1	-	365
 haggle	v	11	1	-	-
 hair	n	9	31	448	603
 hairdo	n	72	1	-	-
+half-carry	v	55	1	-	-
+half-lead	v	55	1	-	-
 hall	n	37	2	879	1854
 hallway	n	37	1	-	3595
 halt	n	82	1	-	-
@@ -952,6 +990,7 @@ help	v	11	27	307	167
 help	n	17	3	307	881
 herb	n	9	2	-	3607
 herd	v	19	1	-	-
+hesitate	v	44	1	-	3958
 hesitation	n	92	1	-	-
 hide	v	6	2	-	1261
 hideous	adj	73	1	-	-
@@ -1068,6 +1107,7 @@ juice	n	63	3	-	2329
 jump	v	80	3	-	1353
 jumpsuit	n	76	1	-	-
 justice	n	20	7	904	1490
+keel	v	33	1	-	-
 keep	v	5	27	277	156
 kettle	n	13	1	-	-
 kick	v	98	1	-	1829
@@ -1143,6 +1183,7 @@ lighten	v	43	1	-	-
 like	adj	52	1	78	1684
 like	v	13	10	78	208
 likely	adv	89	1	562	2789
+line	v	19	1	867	2504
 line	n	4	3	867	277
 link	v	82	1	-	1743
 lip	n	14	6	-	1590
@@ -1168,6 +1209,7 @@ look	v	3	45	150	85
 lookalike	n	91	1	-	-
 loop	n	5	2	-	4294
 loose	adj	5	1	-	2874
+loosen	v	82	1	-	-
 lor	n	56	1	-	-
 lose	v	31	4	942	284
 loss	n	30	1	876	789
@@ -1260,6 +1302,7 @@ mockingjay	n	49	4	-	-
 model	n	48	1	-	505
 model	v	92	1	-	4527
 mold	v	4	1	-	-
+molest	v	23	1	-	-
 moment	n	5	20	229	369
 money	n	6	8	292	233
 month	n	14	7	-	237
@@ -1284,6 +1327,7 @@ muscle	n	7	3	-	1725
 mush	n	75	1	-	-
 mushroom	n	88	1	-	4298
 music	n	79	4	-	393
+mutilate	v	98	1	-	-
 mutt	n	49	1	-	-
 muttation	n	49	1	-	-
 mutter	v	6	2	-	4884
@@ -1326,6 +1370,7 @@ nook	n	10	1	-	-
 noon	n	74	1	-	3859
 normal	adj	73	2	-	1221
 north	n	20	1	-	579
+nose	v	62	1	-	-
 nose	n	3	5	-	1748
 note	n	26	2	807	878
 notice	v	18	7	633	1048
@@ -1359,6 +1404,7 @@ open	v	13	12	319	356
 opening	n	63	8	-	1954
 operate	v	12	1	-	1316
 opportunity	n	19	2	736	626
+opt	v	15	1	-	4755
 option	n	39	2	-	1106
 orange	adj	71	1	-	3171
 orange	n	63	5	-	3303
@@ -1391,6 +1437,7 @@ painful	adj	12	3	-	3060
 pair	n	51	7	957	1494
 pale	adj	71	1	772	2958
 panel	n	66	2	-	1616
+panic	v	46	1	-	-
 pants	n	49	3	-	-
 paper	n	20	6	735	520
 parade	v	82	1	-	-
@@ -1474,6 +1521,7 @@ podium	n	20	5	-	-
 point	v	28	2	404	605
 point	n	30	4	404	212
 pointless	adj	16	1	-	-
+pokeweed	v	58	1	-	-
 pole	n	12	1	-	2815
 polish	v	31	1	-	-
 polite	adj	7	2	-	-
@@ -1543,6 +1591,7 @@ purpose	n	13	3	502	1018
 purse	n	52	1	-	4401
 push	v	25	1	-	696
 put	v	4	17	165	151
+quack	v	18	1	-	-
 quack	n	18	1	-	-
 quart	n	16	1	-	-
 quarter	n	86	1	931	1408
@@ -1572,7 +1621,9 @@ rarely	adv	13	4	-	2291
 rarity	n	6	1	-	-
 rat	n	4	2	-	3593
 ration	n	8	2	-	-
+re-create	v	50	1	-	-
 reach	v	5	13	-	423
+react	v	80	1	-	2689
 read	v	7	10	354	338
 reading	n	48	1	826	1591
 ready	adj	17	4	353	759
@@ -1582,7 +1633,9 @@ realize	v	49	10	-	621
 really	adv	9	23	303	142
 reaping	n	3	20	-	-
 reason	n	11	4	341	360
+reassure	v	47	1	-	-
 rebel	n	49	2	-	3813
+rebel	v	96	1	-	-
 rebellion	n	6	6	-	-
 recap	n	52	2	-	-
 receive	v	21	2	-	499
@@ -1593,6 +1646,7 @@ red	adj	35	11	548	598
 reek	v	28	1	-	-
 reek	n	55	2	-	-
 reflect	v	76	1	-	1007
+refuel	v	57	1	-	-
 refusal	n	53	1	-	-
 refuse	v	19	3	-	1253
 regain	v	33	2	-	4838
@@ -1619,11 +1673,15 @@ repeatedly	adv	39	1	-	3275
 repentance	n	22	1	-	-
 replace	v	13	2	-	1186
 replay	n	26	2	-	-
+replicate	v	50	1	-	-
 reply	v	95	1	795	2239
 reporter	n	46	1	-	1294
 represent	v	76	1	-	688
 require	v	21	2	-	447
+resemble	v	9	1	-	3083
+resent	v	15	1	-	-
 reservation	n	85	1	-	3072
+resist	v	67	4	-	2493
 respect	v	59	1	756	2836
 respect	n	50	1	756	1563
 respond	v	10	4	-	923
@@ -1646,6 +1704,7 @@ right	n	29	4	204	240
 ring	v	20	2	-	2397
 ring	n	49	2	-	1688
 ringer	n	90	1	-	-
+rip	v	78	2	-	3606
 rise	v	20	8	-	728
 risk	v	6	3	-	3189
 risk	n	15	1	-	652
@@ -1693,6 +1752,7 @@ savage	n	51	1	-	-
 save	v	18	2	855	735
 savior	n	59	1	-	-
 say	v	7	163	93	19
+scale	v	68	1	-	-
 scalp	n	87	1	-	-
 scar	n	43	1	-	-
 scare	v	7	4	-	3844
@@ -1704,6 +1764,7 @@ scent	n	34	2	-	4514
 school	n	7	18	662	125
 scoop	v	65	1	-	-
 scorch	v	35	1	-	-
+scrap	v	45	1	-	-
 scrape	v	36	1	-	-
 scrawny	adj	4	1	-	-
 scream	n	95	1	-	-
@@ -1813,6 +1874,7 @@ skinny	adj	11	2	-	-
 skirt	n	17	3	-	3670
 skull	n	24	1	-	4287
 sky	n	10	5	-	1150
+slam	v	46	2	-	3487
 slap	n	49	1	-	-
 slaughter	n	85	1	-	-
 sleep	n	3	5	639	2060
@@ -1892,6 +1954,7 @@ spray	n	83	1	-	4467
 spread	v	10	1	-	1378
 spring	n	33	2	-	904
 spring	v	20	2	-	4089
+spunk	v	28	1	-	-
 square	adj	18	1	-	2772
 square	n	10	5	-	3374
 squash	n	3	1	-	-
@@ -1903,17 +1966,20 @@ stagger	v	22	3	-	-
 stagger	n	52	1	-	-
 stair	n	92	1	-	2884
 stake	n	19	1	-	2614
+stammer	v	90	1	-	-
 stand	v	10	20	541	282
 standing	n	21	1	538	3105
 stare	v	20	8	-	1134
 start	v	7	12	-	173
 start	n	97	1	-	1540
 starvation	n	22	3	-	-
+starve	v	6	3	-	-
 state	n	20	3	401	137
 station	n	39	7	-	844
 stay	v	4	7	481	410
 steady	adj	27	2	-	2938
 steal	v	27	3	-	1798
+steel	v	27	1	-	-
 stem	n	57	1	-	3443
 stencil	v	73	1	-	-
 step	n	20	7	727	588
@@ -1933,6 +1999,7 @@ storm	n	20	1	-	1666
 story	n	20	4	564	234
 straggle	v	32	1	-	-
 straight	adj	25	1	-	2480
+straighten	v	29	1	-	4927
 strange	adj	82	3	495	1589
 strategy	n	47	5	-	847
 strawberry	n	12	7	-	-
@@ -1957,6 +2024,7 @@ stupid	adj	35	2	-	2725
 style	n	77	1	-	971
 stylist	n	63	13	-	-
 substantial	adj	64	1	-	2567
+substitute	v	75	1	-	-
 substitution	n	75	1	-	-
 success	n	85	1	-	778
 successful	adj	5	1	-	1105
@@ -1969,10 +2037,12 @@ suggestion	n	90	1	-	2530
 suit	v	13	2	-	3197
 suit	n	20	1	-	1418
 summer	n	10	3	-	619
+summon	v	43	1	-	-
 sunlight	n	10	2	-	3928
 supper	n	10	8	1000	-
 supply	n	15	1	-	1503
 suppose	v	31	2	299	2180
+suppress	v	81	1	-	-
 surprise	n	17	3	704	1632
 surprise	v	44	1	704	3086
 surprisingly	adv	28	1	-	3398
@@ -2030,6 +2100,7 @@ tell	v	3	25	160	103
 temperature	n	86	1	-	1631
 temporary	adj	20	1	-	3175
 tempt	v	84	2	-	-
+tend	v	19	1	-	1043
 tenuous	adj	29	1	-	-
 term	n	13	2	-	627
 terrible	adj	17	1	-	1958
@@ -2160,15 +2231,18 @@ unexpectedly	adv	53	1	-	-
 unfortunately	adv	34	3	-	2032
 unitard	n	77	2	-	-
 untangle	v	87	1	-	-
+up	v	27	1	60	-
 upbeat	adj	8	1	-	-
 uprising	n	21	2	-	-
 upset	adj	39	1	-	4387
 upset	v	26	2	-	3417
+urge	v	92	1	-	2281
 urgency	n	44	1	-	-
 use	n	58	1	385	429
 use	v	21	3	385	92
 used	adj	28	1	301	1842
 usually	adv	4	7	-	725
+utter	v	89	1	-	-
 utterly	adv	80	1	-	-
 vaguely	adv	35	1	-	-
 valley	n	7	2	-	3182
@@ -2180,6 +2254,7 @@ vast	adj	21	2	-	1979
 vegetable	n	33	1	-	1948
 velvet	n	39	3	-	-
 venomous	adj	5	2	-	-
+venture	v	6	3	-	-
 vermin	n	4	1	-	-
 verse	n	50	1	-	-
 version	n	75	1	-	1133
@@ -2232,6 +2307,7 @@ weapon	n	6	5	-	932
 wear	v	3	13	-	519
 weary	adj	78	1	-	-
 weather	n	18	1	924	1623
+weed	v	42	1	-	-
 weed	n	57	1	-	4598
 week	n	12	4	577	188
 weep	v	47	1	-	-
@@ -2297,6 +2373,7 @@ wrong	adj	11	3	478	656
 yank	v	46	3	-	-
 yard	n	37	3	-	1039
 year	n	4	40	472	54
+yearn	v	29	1	-	-
 yell	v	16	4	-	2651
 yellow	adj	3	2	-	1675
 yellow	n	68	1	-	-

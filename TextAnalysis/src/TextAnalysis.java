@@ -229,7 +229,7 @@ public class TextAnalysis {
 			
 			} else {
 				
-				if (word.getType() == WordType.N) {
+				if (word.getType() == WordType.V) {
 					System.out.println(word.getWord());
 				}
 				

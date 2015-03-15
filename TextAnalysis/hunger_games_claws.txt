@@ -877,7 +877,7 @@ He_PNP 's_VBZ drunk_AJ0 ._SENT -----_PUN
 Very_AJ0 ._SENT -----_PUN 
 The_AT0 crowd_NN1 responds_VVZ with_PRP its_DPS token_AJ0 applause_NN1 ,_PUN 
 but_CJC he_PNP 's_VBZ confused_VVN and_CJC tries_VVZ to_TO0 give_VVI Effie_NP0 
-Trinket_VVB a_AT0 big_AJ0 hug_NN1 ,_PUN which_DTQ she_PNP barely_AV0 
+Trinket_NP0 a_AT0 big_AJ0 hug_NN1 ,_PUN which_DTQ she_PNP barely_AV0 
 manages_VVZ to_TO0 fend_VVI off_AVP ._SENT -----_PUN 
 
 
@@ -1802,7 +1802,7 @@ He_PNP shrugs_VVZ as_CJS if_CJS it_PNP could_VM0 n't_XX0 possibly_AV0
 matter_VVI ._SENT -----_PUN 
 Then_AV0 I_PNP ca_VM0 n't_XX0 think_VVI of_PRF anything_PNI else_AV0 ,_PUN 
 so_CJS we_PNP sit_VVB in_PRP silence_NN1 until_CJS a_AT0 Peacemaker_NN1 
-summons_VVB him_PNP ._SENT -----_PUN 
+summons_VVZ him_PNP ._SENT -----_PUN 
 He_PNP rises_VVZ and_CJC coughs_VVZ to_TO0 clear_VVI his_DPS throat_NN1 ._SENT 
 -----_PUN 
 "_PUQ Ill_NP0 keep_VVB an_AT0 eye_NN1 on_PRP the_AT0 little_AJ0 girl_NN1 
@@ -2968,7 +2968,7 @@ sympathetic_AJ0 face_NN1 ._SENT -----_PUN
 "_PUQ Good_AJ0 news_NN1 ,_PUN though_AV0 ._SENT -----_PUN 
 This_DT0 is_VBZ the_AT0 last_ORD one_PNI ._SENT -----_PUN 
 Ready_AJ0 ?_PUN "_SENT -----_PUN 
-Iget_VVB a_AT0 grip_NN1 on_PRP the_AT0 edges_NN2 of_PRF the_AT0 table_NN1 
+I+PNP get_VVB a_AT0 grip_NN1 on_PRP the_AT0 edges_NN2 of_PRF the_AT0 table_NN1 
 I_PNP 'm_VBB seated_VVN on_AVP and_CJC nod_NN1 ._SENT -----_PUN 
 The_AT0 final_AJ0 swathe_NN1 of_PRF my_DPS leg_NN1 hair_NN1 is_VBZ 
 uprooted_AJ0 in_PRP a_AT0 painful_AJ0 jerk_NN1 ._SENT -----_PUN 
@@ -3825,7 +3825,7 @@ like_PRP our_DPS server_NN1 as_CJS a_AT0 beetle_NN1 does_VDZ a_AT0
 butterfly_NN1 ._SENT -----_PUN 
 She_PNP may_VM0 also_AV0 be_VBI the_AT0 friendliest_AJS person_NN1 on_PRP 
 the_AT0 planet_NN1 she_PNP smiles_VVZ constantly_AV0 at_PRP everybody_PNI 
-in_PRP school_NN1 ,_PUN even_VVB me_PNP ._SENT -----_PUN 
+in_PRP school_NN1 ,_PUN even_AV0 me_PNP ._SENT -----_PUN 
 I_PNP have_VHB never_AV0 seen_VVN the_AT0 girl_NN1 with_PRP the_AT0 red_AJ0 
 hair_NN1 smile_NN1 ._SENT -----_PUN 
 But_CJC I_PNP jump_VVB on_PRP Peeta_NP0 's_POS suggestion_NN1 gratefully_AV0 
