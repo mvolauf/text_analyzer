@@ -342,7 +342,6 @@ busy	adj	12	1	-	1939
 but	adv	26	3	22	-
 butcher	n	33	2	-	-
 buts	n	67	1	-	-
-buttercup	n	3	3	-	-
 butterfly	n	90	1	-	4978
 button	n	27	5	-	2668
 buy	v	13	7	-	398
@@ -1034,7 +1033,6 @@ funeral	n	28	1	-	2908
 funny	adj	9	3	-	1803
 gadget	n	86	1	-	-
 gain	v	81	1	-	1259
-gale	n	7	15	-	-
 gallon	n	12	1	-	-
 game	n	7	32	-	274
 garden	n	33	5	726	1047
@@ -2152,7 +2150,7 @@ scrub	v	4	3	-	-
 scruffy	adj	5	3	-	-
 sea	n	20	1	833	992
 seal	v	86	1	-	4062
-seam	n	4	18	-	-
+seam	n	66	1	-	-
 seat	v	70	1	891	4324
 seat	n	20	1	891	897
 second	n	14	2	436	683

@@ -26,7 +26,7 @@ public class TextAnalysis {
 //	private static final Pattern PAGE_PATTERN = Pattern.compile("\\[page\\s*(\\d+)\\]");
 //	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-]+)\\[([a-z]+)\\]");
 	private static final Pattern PAGE_PATTERN = Pattern.compile("page(\\d+)_");
-	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-]+)_([A-Z0-9]+)");
+	private static final Pattern WORD_PATTERN = Pattern.compile("([a-zA-Z\\+\\-\\.]+)_([A-Z0-9]+)");
 
 	private static final Set<Character> VOWELS = new HashSet<Character>();
 	static {
@@ -241,11 +241,15 @@ public class TextAnalysis {
 	private void processPage(Page page) {
 		String pageText = text.substring(page.getStart(), page.getEnd());
 		Matcher matcher = WORD_PATTERN.matcher(pageText);
+		boolean newSentence = true;
 		while (matcher.find()) {
 			String wordText = matcher.group(1);
 			wordText = wordText.toLowerCase();
 			wordText = wordText.replace('+', ' ');
 			String tag = matcher.group(2).toUpperCase();
+			if (tag.equals("PUN")) {
+				continue;
+			}
 			
 			WordType type = null;
 			//type = WordType.fromTag(tag);
@@ -320,6 +324,10 @@ public class TextAnalysis {
 			}
 
 			if (type != null) {
+				if (matcher.group(1).matches("[A-Z].*") && !newSentence) {
+					System.out.println(matcher.group(1));
+				}
+				
 				Word word = new Word(wordText, type);
 				WordInfo info = infoMap.get(word);
 				if (info == null) {
@@ -328,6 +336,8 @@ public class TextAnalysis {
 				}
 				info.incrementCount();
 			}
+			
+			newSentence = tag.equals("SENT") || tag.equals("PUQ");
 		}
 	}
 
