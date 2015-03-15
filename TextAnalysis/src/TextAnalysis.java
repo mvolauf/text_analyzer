@@ -229,7 +229,7 @@ public class TextAnalysis {
 			
 			} else {
 				
-				if (word.getType() == WordType.V) {
+				if (word.getType() == WordType.ADV) {
 					System.out.println(word.getWord());
 				}
 				
@@ -301,6 +301,17 @@ public class TextAnalysis {
 			case "AVP":
 			case "AVQ":
 				type = WordType.ADV;
+				if (wordText.equals("better") || wordText.equals("best")) {
+					wordText = "well";
+				} else if (wordText.equals("deeper")) {
+					wordText = "deep";
+				} else if (wordText.equals("farther")) {
+					wordText = "far";
+				} else if (wordText.equals("later")) {
+					wordText = "late";
+				} else if (wordText.equals("longer")) {
+					wordText = "long";
+				}
 				break;
 			}
 
