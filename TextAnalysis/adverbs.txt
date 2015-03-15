@@ -222,7 +222,6 @@ queasily
 queerly
 questionably
 questioningly
-quicker
 quickly
 quietly
 quirkily
@@ -401,7 +400,7 @@ but
 by
 
 clock
-closer
+close
 comically
 completely
 conceivably
@@ -415,7 +414,7 @@ desperately
 directly
 down
 eagerly
-earlier
+early
 easy
 either
 else
@@ -480,11 +479,10 @@ occasionally
 of course
 off
 okay
-on
+
 once
 open
 ordinarily
-out
 outside
 over
 overnight
@@ -510,7 +508,7 @@ since
 sincerely
 single-handedly
 slightly
-so
+
 somehow
 somewhat
 somewhere
@@ -531,7 +529,6 @@ there
 thereby
 this
 though
-through
 tight
 today
 together
@@ -540,9 +537,6 @@ totally
 twice
 undoubtedly
 unhappily
-up
-whenever
-where
-why
 wordlessly
 yet
+so

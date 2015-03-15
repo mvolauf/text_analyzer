@@ -228,11 +228,7 @@ public class TextAnalysis {
 				ps.println(sb.toString());
 			
 			} else {
-				
-				if (word.getType() == WordType.ADV) {
-					System.out.println(word.getWord());
-				}
-				
+				// ignore
 			}
 		}
 		ps.close();
@@ -298,8 +294,6 @@ public class TextAnalysis {
 				break;
 
 			case "AV0":
-			case "AVP":
-			case "AVQ":
 				type = WordType.ADV;
 				if (wordText.equals("better") || wordText.equals("best")) {
 					wordText = "well";
@@ -311,7 +305,17 @@ public class TextAnalysis {
 					wordText = "late";
 				} else if (wordText.equals("longer")) {
 					wordText = "long";
+				} else if (wordText.equals("quicker")) {
+					wordText = "quick";
+				} else if (wordText.equals("closer")) {
+					wordText = "close";
+				} else if (wordText.equals("earlier")) {
+					wordText = "early";
 				}
+				break;
+			case "AVP":
+			case "AVQ":
+				// right now, we ignore these
 				break;
 			}
 

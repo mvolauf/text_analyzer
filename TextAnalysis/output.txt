@@ -9,7 +9,7 @@ ability	n	41	3	-	783
 ablaze	adj	80	1	-	-
 able	adj	32	5	435	386
 abound	v	12	1	-	-
-about	adv	19	6	72	179
+about	adv	19	3	72	179
 absence	n	51	1	-	2547
 absolutely	adv	59	3	-	1152
 accent	n	8	3	-	4181
@@ -70,7 +70,6 @@ allow	v	6	5	863	340
 almost	adv	5	16	228	292
 alone	adv	33	3	318	1101
 alone	adj	39	3	318	1620
-along	adv	33	4	370	1200
 aloud	adv	60	1	-	-
 already	adv	11	8	355	335
 also	adv	6	7	403	87
@@ -116,7 +115,6 @@ arena	n	21	11	-	3625
 arise	v	6	1	-	2603
 arm	v	6	2	446	4727
 arm	n	24	16	446	492
-around	adv	18	16	874	327
 arrange	v	72	2	-	2236
 arrival	n	46	1	-	3222
 arrive	v	8	2	-	813
@@ -154,7 +152,6 @@ babble	v	83	1	-	-
 baby	n	32	2	-	589
 back	n	13	16	131	323
 back	adj	59	1	131	-
-back	adv	6	47	131	108
 back	v	34	2	131	1877
 background	n	50	1	-	1409
 backward	adv	53	1	-	-
@@ -351,7 +348,6 @@ button	n	27	5	-	2668
 buy	v	13	7	-	398
 buzz	v	93	1	-	-
 buzzard	n	19	1	-	-
-by	adv	9	5	32	1190
 cable	n	95	1	-	2017
 cake	n	51	4	-	2563
 call	v	5	20	321	122
@@ -461,10 +457,10 @@ clock	v	41	1	-	-
 clock	adv	10	2	-	-
 clock	n	20	1	-	2658
 close	v	5	9	393	650
+close	adv	8	1	393	917
 close	adj	4	2	393	882
 close-cropped	adj	73	1	-	-
 closely	adv	9	1	-	2055
-closer	adv	8	1	-	-
 closet	n	87	1	-	3502
 cloth	n	13	9	-	3575
 clouds	n	37	1	-	-
@@ -739,7 +735,6 @@ dot	v	57	1	-	-
 double	v	30	1	-	2870
 double-check	v	59	1	-	-
 doubt	n	89	1	375	1920
-down	adv	19	24	92	118
 doze	v	24	1	-	-
 drab	adj	13	1	-	-
 drain	v	25	2	-	3635
@@ -777,7 +772,7 @@ dyed	adj	73	1	-	-
 eager	adj	25	1	-	3148
 eagerly	adv	69	1	-	-
 ear	n	3	2	-	1344
-earlier	adv	30	3	-	-
+early	adv	30	3	520	512
 ease	n	21	1	-	4289
 easily	adv	12	1	690	1215
 east	n	68	1	-	734
@@ -1251,7 +1246,6 @@ house	n	5	5	133	258
 houseful	n	97	1	-	-
 houses	n	5	2	-	-
 hovercraft	n	95	3	-	-
-how	adv	4	44	84	76
 howl	n	59	1	-	-
 huddle	v	26	3	-	-
 hue	n	68	1	-	-
@@ -1295,7 +1289,6 @@ impression	n	56	3	-	2559
 imprison	v	18	2	-	-
 improve	v	87	1	-	998
 impulse	n	72	2	-	4749
-in	adv	3	23	7	128
 inch	n	73	1	-	-
 incite	v	6	1	-	-
 include	v	71	1	-	293
@@ -1695,7 +1688,6 @@ odd	adj	47	4	-	2762
 oddly	adv	68	2	-	-
 odds	n	8	8	-	3266
 of course	adv	3	15	-	-
-off	adv	10	32	145	205
 off-center	adj	22	1	-	-
 offer	n	17	2	847	2109
 offer	v	87	1	847	374
@@ -1708,7 +1700,6 @@ okay	adj	56	1	-	3379
 okay	adv	4	2	-	1651
 old	adj	8	19	109	152
 olive	adj	9	1	-	-
-on	adv	18	24	25	155
 once	adv	3	20	186	301
 onion	n	58	3	-	2590
 only	adj	7	9	82	329
@@ -1730,7 +1721,6 @@ ordinarily	adv	14	1	-	-
 ordinary	adj	48	1	-	2289
 other	adj	3	19	86	75
 other	n	30	1	86	-
-out	adv	3	67	57	64
 outdoor	adj	21	1	-	3650
 outfit	n	13	6	-	4449
 outline	n	33	1	-	-
@@ -1738,7 +1728,7 @@ outshine	v	83	1	-	-
 outside	adv	4	1	803	1750
 outside	adj	92	1	803	2072
 oven	n	34	2	-	2943
-over	adv	11	11	105	182
+over	adv	66	1	105	182
 overcast	adj	79	1	-	-
 overcast	n	74	1	-	-
 overcome	v	85	1	-	2730
@@ -2589,7 +2579,6 @@ threadbare	adj	32	1	-	-
 threaten	v	5	2	-	1401
 thrill	v	60	1	-	-
 throat	n	25	4	-	2475
-through	adv	61	2	175	1216
 throw	v	10	10	-	678
 thumbs-up	n	80	1	-	-
 tickling	adj	80	1	-	-
@@ -2738,7 +2727,6 @@ untouched	adj	61	1	-	-
 untrue	adj	86	1	-	-
 untucked	adj	25	2	-	-
 unwanted	adj	7	1	-	-
-up	adv	3	83	60	50
 up	v	27	1	60	-
 upbeat	adj	8	1	-	-
 uprising	n	21	2	-	-
@@ -2838,9 +2826,6 @@ welcome	v	79	1	-	1555
 well	adv	6	32	70	100
 well	v	18	1	70	-
 wet	adj	86	1	-	2491
-when	adv	3	25	43	136
-whenever	adv	40	2	962	2334
-where	adv	7	14	112	190
 while	n	17	5	148	1327
 whiner	n	71	1	-	-
 whisk	v	29	2	-	-
@@ -2849,7 +2834,6 @@ whistle	n	50	1	-	-
 whistle	v	50	2	-	-
 white	adj	13	10	386	302
 whole	adj	42	9	262	468
-why	adv	9	18	171	158
 wide	adj	68	1	-	944
 wield	v	71	1	-	-
 wife	n	11	4	284	467
