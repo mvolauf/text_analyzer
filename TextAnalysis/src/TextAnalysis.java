@@ -16,6 +16,8 @@ import java.util.regex.Pattern;
 
 public class TextAnalysis {
 
+	private static final String TAB = "\t";
+
 	private static final Set<String> skip = new HashSet<String>(
 		Arrays.asList("the", "and",
 			"but", "that", "you", "for", "with", "her", "they",
@@ -37,6 +39,7 @@ public class TextAnalysis {
 	}
 
 	public static void main(String[] args) throws Exception {
+		
 		StringBuilder sb = new StringBuilder();
 
 		// File file = new File("sample.txt");
@@ -66,6 +69,8 @@ public class TextAnalysis {
 	private final Set<String> verbs = new HashSet<>();
 	private final Set<String> adjectives = new HashSet<>();
 	private final Set<String> adverbs = new HashSet<>();
+	private final Map<String, Integer> top1000 = new HashMap<>();
+	private final Map<Word, Integer> top5000 = new HashMap<>();
 
 	public TextAnalysis(String text) throws Exception {
 		this.text = text;
@@ -74,16 +79,83 @@ public class TextAnalysis {
 		load(adjectives, "adjectives.txt");
 		load(adverbs, "adverbs.txt");
 		loadIrregularVerbs();
+		
+		loadSimpleRankList("top1000.txt", top1000);
+		loadRankList("top5000.txt", top5000);
+		
 		for (IrregularVerb verb : irregularVerbs) {
 			verbs.add(verb.getBase());
 		}
+	}
+	
+	private void loadSimpleRankList(String file, Map<String, Integer> map) throws Exception {
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line;
+		while ((line = reader.readLine()) != null) {
+			line = line.replace((char) 160, ' ');
+			line = line.trim();
+			if (line.isEmpty() || line.startsWith("#")) {
+				continue;
+			}
+			String[] parts = line.split("\\s+");
+			if (parts.length >= 2) {
+				try {
+					int rank = Integer.parseInt(parts[0]);
+					String word = parts[1].trim().toLowerCase();
+					map.put(word, rank);
+					if (rank != map.size()) {
+						throw new RuntimeException("rank=" + rank + " map.size=" + map.size());
+					}
+				} catch (NumberFormatException e) {
+					// ignore
+				}
+			}
+		}
+		reader.close();
+	}
+	
+	private void loadRankList(String file, Map<Word, Integer> map) throws Exception {
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line;
+		while ((line = reader.readLine()) != null) {
+			line = line.replace((char) 160, ' ');
+			line = line.trim();
+			if (line.isEmpty() || line.startsWith("#")) {
+				continue;
+			}
+			String[] parts = line.split("\\s+");
+			if (parts.length >= 3) {
+				try {
+					int rank = Integer.parseInt(parts[0]);
+					String word = parts[1].trim().toLowerCase();
+					WordType type = getWordType(parts[2].trim().toLowerCase());
+					if (type != null) {
+						Word w = new Word(word, type);
+						map.put(w, rank);
+					}
+				} catch (NumberFormatException e) {
+					// ignore
+				}
+			}
+		}
+		reader.close();
+	}
+
+	private WordType getWordType(String s) {
+		switch (s) {
+		case "n": return WordType.N;
+		case "v": return WordType.V;
+		case "j": return WordType.ADJ;
+		case "r": return WordType.ADV;
+		}
+		return null;
 	}
 
 	private void load(Set<String> set, String fileName) throws Exception {
 		BufferedReader reader = new BufferedReader(new FileReader(fileName));
 		String line;
 		while ((line = reader.readLine()) != null) {
-			String word = line.trim();
+			String word = line.replace((char) 160, ' ').trim();
 			if (!word.isEmpty()) {
 				set.add(word);
 			}
@@ -118,12 +190,50 @@ public class TextAnalysis {
 		PrintStream ps = new PrintStream(file);
 		for (Word word : words) {
 			WordInfo info = infoMap.get(word);
-			if (word.getWord().startsWith("?") /*&& word.getType() == WordType.ADJ*/) {
-				System.out.println(word.getWord());
-				//System.out.println(word + " " + info.getFirstPage() + " " + info.getCount());
+
+			// check
+			boolean exists = false;
+			switch (word.getType()) {
+			case ADJ:
+				exists = adjectives.contains(word.getWord());
+				break;
+			case ADV:
+				exists = adverbs.contains(word.getWord());
+				break;
+			case N:
+				exists = nouns.contains(word.getWord());
+				break;
+			case V:
+				exists = verbs.contains(word.getWord());
+				break;
 			}
-			String sep = "\t";
-			ps.println(word.getWord() + sep + word.getType() + sep + info.getFirstPage() + sep + info.getCount());
+			if (exists) {
+			
+				Integer rank1000 = top1000.get(word.getWord());
+				Integer rank5000 = top5000.get(word);
+				
+				StringBuilder sb = new StringBuilder();
+				sb.append(word.getWord());
+				sb.append(TAB);
+				sb.append(word.getType());
+				sb.append(TAB);
+				sb.append(info.getFirstPage());
+				sb.append(TAB);
+				sb.append(info.getCount());
+				sb.append(TAB);
+				sb.append(rank1000 != null ? rank1000.toString() : "-");
+				sb.append(TAB);
+				sb.append(rank5000 != null ? rank5000.toString() : "-");
+	
+				ps.println(sb.toString());
+			
+			} else {
+				
+				if (word.getType() == WordType.N) {
+					System.out.println(word.getWord());
+				}
+				
+			}
 		}
 		ps.close();
 		//System.out.println();
