@@ -908,7 +908,6 @@ feature	n	7	2	-	1194
 feed	v	4	9	-	1324
 feel	v	7	28	315	134
 feeling	n	88	1	372	807
-feet	n	4	8	499	-
 fellow	adj	76	2	416	2443
 female	adj	50	1	-	1403
 fence	n	5	7	-	2676
@@ -980,7 +979,7 @@ fondness	n	13	2	-	-
 food	n	6	18	-	367
 fool	v	32	1	964	-
 fool	n	47	1	964	4071
-foot	n	46	2	610	381
+foot	n	4	10	610	381
 for	adv	76	1	18	-
 forage	n	4	1	-	-
 forbid	v	33	2	-	4750

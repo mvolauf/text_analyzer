@@ -471,6 +471,9 @@ public class TextAnalysis {
 		if ("leaves".equals(word)) {
 			return "leaf";
 		}
+		if ("feet".equals(word)) {
+			return "foot";
+		}
 		if (word.endsWith("s")) {
 			String s = word.substring(0, word.length() - 1);
 			if (nouns.contains(s)) {
