@@ -318,6 +318,8 @@ public class TextAnalysis {
 				}
 				break;
 			case "AVP":
+				type = WordType.ADV;
+				break;
 			case "AVQ":
 				// right now, we ignore these
 				break;

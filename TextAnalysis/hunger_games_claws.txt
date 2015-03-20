@@ -464,7 +464,7 @@ nose_NN1 at_PRP a_AT0 good_AJ0 leg_NN1 of_PRF wild_AJ0 dog_NN1 ,_PUN but_CJC
 the_AT0 Peacekeepers_NN2 who_PNQ come_VVB to_PRP the_AT0 Hob_NN1 can_VM0 
 afford_VVI to_TO0 be_VBI a+little_AV0 choosier_AJC ._SENT -----_PUN 
 When_CJS we_PNP finish_VVB our_DPS business_NN1 at_PRP the_AT0 market_NN1 
-,_PUN we_PNP go_VVB to_PRP the_AT0 back_NN1 door_NN1 of_PRF the_AT0 mayor_NN1 
+,_PUN we_PNP go_VVB to_PRP the_AT0 back+door_NN1 of_PRF the_AT0 mayor_NN1 
 's_POS house_NN1 to_TO0 sell_VVI half_DT0 the_AT0 strawberries_NN2 ,_PUN 
 knowing_VVG he_PNP has_VHZ a_AT0 particular_AJ0 fondness_NN1 for_PRP them_PNP 
 and_CJC can_VM0 afford_VVI our_DPS price_NN1 ._SENT -----_PUN 
@@ -691,7 +691,7 @@ I_PNP notice_VVB her_DPS blouse_NN1 has_VHZ pulled_VVN out_PRP of_PRP her_DPS
 skirt_NN1 in_PRP the_AT0 back_NN1 again_AV0 and_CJC force_NN1 myself_PNX 
 to_TO0 stay_VVI calm_NN1 ._SENT -----_PUN 
 "_PUQ Tuck_VVB your_DPS tail_NN1 in_AVP ,_PUN little_AJ0 duck_NN0 ,_PUN "_PUQ 
-I_PNP say_VVB ,_PUN smoothing_VVG the_AT0 blouse_NN1 back_AVP in_PRP place_NN1 
+I_PNP say_VVB ,_PUN smoothing_VVG the_AT0 blouse_NN1 back_AV0 in_PRP place_NN1 
 ._SENT -----_PUN 
 Prim_NP0 giggles_VVZ and_CJC gives_VVZ me_PNP a_AT0 small_AJ0 "_PUQ Quack_NN1 
 ._PUN "_SENT -----_PUN 
@@ -853,7 +853,7 @@ Hunger_NN1 Games_NN2 as_PRP a_AT0 festivity_NN1 ,_PUN a_AT0 sporting_NN1
 event_NN1 pitting_VVG every_AT0 district_NN1 against_PRP the_AT0 others_DT0 
 ._SENT -----_PUN 
 The_AT0 last_ORD tribute_NN1 alive_AJ0 receives_VVZ a_AT0 life_NN1 of_PRF 
-ease_NN1 page22_UNC back_NN1 home_AV0 ,_PUN and_CJC their_DPS district_NN1 
+ease_NN1 page22_UNC back_AV0 home_AV0 ,_PUN and_CJC their_DPS district_NN1 
 will_VM0 be_VBI showered_VVN with_PRP prizes_NN2 ,_PUN largely_AV0 
 consisting_VVG of_PRF food_NN1 ._SENT -----_PUN 
 All_DT0 year_NN1 ,_PUN the_AT0 Capitol_NP0 will_VM0 show_VVI the_AT0 
@@ -884,7 +884,7 @@ The_AT0 mayor_NN1 looks_VVZ distressed_AJ0 ._SENT -----_PUN
 Since_CJS all_DT0 of_PRF this_DT0 is_VBZ being_VBG televised_VVN ,_PUN 
 right_AV0 now_AV0 District_NN1 12_CRD is_VBZ the_AT0 laughing_AJ0 stock_NN1 of_PRF
 Panem_NP0 ,_PUN and_CJC he_PNP knows_VVZ it_PNP ._SENT -----_PUN 
-He_PNP quickly_AV0 tries_VVZ to_TO0 pull_VVI the_AT0 attention_NN1 back_AVP 
+He_PNP quickly_AV0 tries_VVZ to_TO0 pull_VVI the_AT0 attention_NN1 back_AV0 
 to_PRP the_AT0 reaping_NN1 by_PRP introducing_VVG Effie_NP0 Trinket_NP0 ._SENT 
 
 -----_PUN 
@@ -903,7 +903,7 @@ bumped_VVN up_PRP to_PRP a_AT0 better_AJC district_NN1 where_CJS they_PNP
 have_VHB proper_AJ0 victors_NN2 ,_PUN not_XX0 drunks_NN2 who_PNQ molest_VVB 
 you_PNP in_PRP front_PRP of_PRP the_AT0 entire_AJ0 nation_NN1 ._SENT -----_PUN 
 Through_PRP the_AT0 crowd_NN1 ,_PUN I_PNP spot_VVB Gale_NP0 looking_VVG 
-back_AVP at_PRP me_PNP with_PRP a_AT0 ghost_NN1 of_PRF a_AT0 smile_NN1 ._SENT 
+back_AV0 at_PRP me_PNP with_PRP a_AT0 ghost_NN1 of_PRF a_AT0 smile_NN1 ._SENT 
 -----_PUN 
 As_CJS reapings_NN2 go_VVB ,_PUN this_DT0 one_PNI at+least_AV0 has_VHZ 
 a_AT0 slight_AJ0 entertainment_NN1 factor_NN1 ._SENT -----_PUN 
@@ -978,7 +978,7 @@ and_CJC I_PNP see_VVB the_AT0 back_NN1 of_PRF her_DPS blouse_NN1 has_VHZ
 become_VVN untucked_AJ0 and_CJC hangs_VVZ out_AVP over_PRP her_DPS skirt_NN1 
 ._SENT -----_PUN 
 It_PNP 's_VBZ this_DT0 detail_NN1 ,_PUN the_AT0 untucked_AJ0 blouse_NN1 
-forming_VVG a_AT0 ducktail_NN1 ,_PUN that_DT0 brings_VVZ me_PNP back_AVP 
+forming_VVG a_AT0 ducktail_NN1 ,_PUN that_DT0 brings_VVZ me_PNP back_AV0 
 to_PRP myself_PNX ._SENT -----_PUN 
 "_PUQ Prim_NP0 !_PUN "_SENT -----_PUN 
 The_AT0 strangled_AJ0 cry_NN1 comes_VVZ out_PRP of_PRP my_DPS throat_NN1 ,_PUN 
@@ -1185,7 +1185,7 @@ situation_NN1 ,_PUN she_PNP plants_VVZ one_CRD hand_NN1 on_PRP her_DPS
 head_NN1 as_CJS she_PNP crosses_VVZ to_PRP the_AT0 ball_NN1 that_CJT 
 contains_VVZ the_AT0 boys_NN2 '_POS names_NN2 and_CJC grabs_VVZ the_AT0 
 first_ORD slip_NN1 she_PNP encounters_VVZ ._SENT -----_PUN 
-She_PNP zips_VVZ back_AVP to_PRP the_AT0 podium_NN1 ,_PUN and_CJC I_PNP do_VDB 
+She_PNP zips_VVZ back_AV0 to_PRP the_AT0 podium_NN1 ,_PUN and_CJC I_PNP do_VDB 
 n't_XX0 even_AV0 have_VHI time_NN1 to_TO0 wish_VVI for_PRP Gale_NP0 's_POS 
 safety_NN1 when_CJS she_PNP 's_VBZ reading_VVG the_AT0 name_NN1 ._SENT 
 -----_PUN 
@@ -1263,7 +1263,7 @@ under_PRP the_AT0 blankets_NN2 on_PRP her_DPS bed_NN1 ,_PUN eyes_NN2 fixed_VVN
 on_PRP some_DT0 point_NN1 in_PRP the_AT0 distance_NN1 ._SENT -----_PUN 
 Once_AV0 in_PRP a_AT0 while_NN1 ,_PUN she_PNP 'd_VM0 stir_VVI ,_PUN get_VVB 
 up_AVP as_CJS if_CJS moved_VVN by_PRP some_DT0 urgent_AJ0 purpose_NN1 ,_PUN 
-only_AV0 to_TO0 then_AV0 collapse_VVI back_AVP into_PRP stillness_NN1 ._SENT 
+only_AV0 to_TO0 then_AV0 collapse_VVI back_AV0 into_PRP stillness_NN1 ._SENT 
 -----_PUN 
 No_AT0 amount_NN1 of_PRF pleading_VVG from_PRP Prim_NP0 seemed_VVD to_TO0 
 affect_VVI her_PNP ._SENT -----_PUN 
@@ -1399,7 +1399,7 @@ golden_AJ0 glow_NN1 spilled_VVD out_AVP the_AT0 open_AJ0 kitchen_NN1 door_NN1
 I_PNP stood_VVD mesmerized_VVD by_PRP the_AT0 heat_NN1 and_CJC the_AT0 
 luscious_AJ0 scent_NN1 until_CJS the_AT0 rain_NN1 interfered_VVD ,_PUN 
 running_VVG its_DPS icy_AJ0 fingers_NN2 down_PRP my_DPS back_NN1 ,_PUN 
-forcing_VVG me_PNP back_AVP to_PRP life_NN1 ._SENT -----_PUN 
+forcing_VVG me_PNP back_AV0 to_PRP life_NN1 ._SENT -----_PUN 
 I_PNP lifted_VVD the_AT0 lid_NN1 to_PRP the_AT0 baker_NN1 's_POS trash_NN1 
 bin_NN1 and_CJC found_VVD it_PNP spotlessly_AV0 ,_PUN heartlessly_AV0 bare_AJ0 
 ._SENT -----_PUN 
@@ -1633,7 +1633,7 @@ they_PNP must_VM0 remember_VVI to_TO0 do_VDI ,_PUN now_CJS that_CJS I_PNP
 will_VM0 not_XX0 be_VBI there_AV0 to_TO0 do_VDI them_PNP for_PRP them_PNP 
 ._SENT -----_PUN 
 Prim_NP0 is_VBZ not_XX0 to_TO0 take_VVI any_DT0 tesserae_NN2 ._SENT -----_PUN 
-They_PNP can_VM0 get_VVI by_AVP ,_PUN if_CJS they_PNP 're_VBB careful_AJ0 
+They_PNP can_VM0 get_VVI by ,_PUN if_CJS they_PNP 're_VBB careful_AJ0 
 ,_PUN on_PRP selling_VVG Prim_NP0 's_POS goat_NN1 milk_NN1 and_CJC cheese_NN1 
 and_CJC the_AT0 small_AJ0 apothecary_NN1 business_NN1 my_DPS mother_NN1 
 now_AV0 runs_VVZ for_PRP the_AT0 people_NN0 in_PRP the_AT0 Seam_NP0 ._SENT 
@@ -2485,7 +2485,7 @@ respected_VVN him_PNP ,_PUN and_CJC they_PNP accepted_VVD me_PNP ._SENT
 -----_PUN 
 Game_NN1 was_VBD game_NN1 after_PRP all_DT0 ,_PUN no_PNQ matter_PNQ who_PNQ 
 'd_VHD shot_VVN it_PNP ._SENT -----_PUN 
-I_PNP also_AV0 sold_VVD at_PRP the_AT0 back_AJ0 doors_NN2 of_PRF the_AT0 
+I_PNP also_AV0 sold_VVD at_PRP the_AT0 back+doors_NN2 of_PRF the_AT0 
 page60_UNC wealthier_AJC clients_NN2 in_PRP town_NN1 ,_PUN trying_VVG to_TO0 
 remember_VVI what_DTQ my_DPS father_NN1 had_VHD told_VVN me_PNP and_CJC 
 learning_VVG a_AT0 few_DT0 new_AJ0 tricks_NN2 as+well_AV0 ._SENT -----_PUN 
@@ -2629,7 +2629,7 @@ head_NN1 ._SENT -----_PUN
 What_DTQ thoughts_NN2 fill_VVB her_DPS waking_NN1 hours_NN2 ?_SENT -----_PUN 
 What_DTQ dreams_NN2 come_VVB to_PRP her_PNP at_PRP night_NN1 ?_SENT -----_PUN 
 I_PNP have_VHB no_AT0 idea_NN1 ._SENT -----_PUN 
-page63_UNC I_ZZ0 put_VVB the_AT0 green_AJ0 outfit_NN1 back_NN1 on_AVP 
+page63_UNC I_ZZ0 put_VVB the_AT0 green_AJ0 outfit_NN1 back_AV0 on_AVP 
 since_CJS it_PNP 's_VBZ not_XX0 really_AV0 dirty_AJ0 ,_PUN just_AV0 
 slightly_AV0 crumpled_VVN from_PRP spending_VVG the_AT0 night_NN1 on_PRP 
 the_AT0 floor_NN1 ._SENT -----_PUN 

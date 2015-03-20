@@ -9,7 +9,7 @@ ability	n	41	3	-	783
 ablaze	adj	80	1	-	-
 able	adj	32	5	435	386
 abound	v	12	1	-	-
-about	adv	19	3	72	179
+about	adv	19	6	72	179
 absence	n	51	1	-	2547
 absolutely	adv	59	3	-	1152
 accent	n	8	3	-	4181
@@ -70,6 +70,7 @@ allow	v	6	5	863	340
 almost	adv	5	16	228	292
 alone	adv	33	3	318	1101
 alone	adj	39	3	318	1620
+along	adv	33	4	370	1200
 aloud	adv	60	1	-	-
 already	adv	11	8	355	335
 also	adv	6	7	403	87
@@ -115,6 +116,7 @@ arena	n	21	11	-	3625
 arise	v	6	1	-	2603
 arm	v	6	2	446	4727
 arm	n	24	16	446	492
+around	adv	18	16	874	327
 arrange	v	72	2	-	2236
 arrival	n	46	1	-	3222
 arrive	v	8	2	-	813
@@ -150,9 +152,10 @@ awhile	adv	49	2	-	-
 awkwardly	adv	43	1	-	-
 babble	v	83	1	-	-
 baby	n	32	2	-	589
-back	n	13	16	131	323
-back	adj	59	1	131	-
+back	n	17	13	131	323
+back	adv	6	49	131	108
 back	v	34	2	131	1877
+back door	n	13	2	-	-
 background	n	50	1	-	1409
 backward	adv	53	1	-	-
 backyard	n	33	1	-	4434
@@ -347,6 +350,7 @@ button	n	27	5	-	2668
 buy	v	13	7	-	398
 buzz	v	93	1	-	-
 buzzard	n	19	1	-	-
+by	adv	9	4	32	1190
 cable	n	95	1	-	2017
 cake	n	51	4	-	2563
 call	v	5	20	321	122
@@ -728,12 +732,13 @@ dogs	n	5	2	-	-
 dome	n	94	2	-	-
 dome-shaped	adj	92	1	-	-
 doom	v	37	1	-	-
-door	n	12	26	210	344
+door	n	12	24	210	344
 doorway	n	47	1	-	3902
 dot	v	57	1	-	-
 double	v	30	1	-	2870
 double-check	v	59	1	-	-
 doubt	n	89	1	375	1920
+down	adv	19	24	92	118
 doze	v	24	1	-	-
 drab	adj	13	1	-	-
 drain	v	25	2	-	3635
@@ -1287,6 +1292,7 @@ impression	n	56	3	-	2559
 imprison	v	18	2	-	-
 improve	v	87	1	-	998
 impulse	n	72	2	-	4749
+in	adv	3	23	7	128
 inch	n	73	1	-	-
 incite	v	6	1	-	-
 include	v	71	1	-	293
@@ -1686,6 +1692,7 @@ odd	adj	47	4	-	2762
 oddly	adv	68	2	-	-
 odds	n	8	8	-	3266
 of course	adv	3	15	-	-
+off	adv	10	32	145	205
 off-center	adj	22	1	-	-
 offer	n	17	2	847	2109
 offer	v	87	1	847	374
@@ -1726,7 +1733,7 @@ outshine	v	83	1	-	-
 outside	adv	4	1	803	1750
 outside	adj	92	1	803	2072
 oven	n	34	2	-	2943
-over	adv	66	1	105	182
+over	adv	11	11	105	182
 overcast	adj	79	1	-	-
 overcast	n	74	1	-	-
 overcome	v	85	1	-	2730
