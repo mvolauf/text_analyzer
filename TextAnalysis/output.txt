@@ -2073,9 +2073,9 @@ rid	v	4	3	-	3066
 ride	v	46	4	-	1290
 ride	n	46	2	-	2062
 ridiculous	adj	89	1	-	4083
-right	adj	14	9	204	318
-right	n	29	4	204	240
-right	adv	5	15	204	193
+right	adj	14	8	204	318
+right	n	65	1	204	240
+right	adv	5	19	204	193
 ring	v	20	2	-	2397
 ring	n	49	2	-	1688
 ringer	n	90	1	-	-

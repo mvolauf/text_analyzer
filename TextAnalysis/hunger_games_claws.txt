@@ -1175,7 +1175,7 @@ and_CJC Effie_NP0 Trinket_NP0 is_VBZ trying_VVG to_TO0 get_VVI the_AT0
 ball_NN1 rolling_VVG again_AV0 ._SENT -----_PUN 
 "_PUQ What_DTQ an_AT0 exciting_AJ0 day_NN1 !_PUN "_PUQ she_PNP warbles_VVZ 
 as_CJS she_PNP attempts_VVZ to_TO0 straighten_VVI her_DPS wig_NN1 ,_PUN 
-which_DTQ has_VHZ listed_VVN severely_AV0 to_PRP the_AT0 right_NN1 ._SENT 
+which_DTQ has_VHZ listed_VVN severely_AV0 to_PRP the_AT0 right_AV0 ._SENT 
 -----_PUN 
 "_PUQ But_CJC more_DT0 excitement_NN1 to_TO0 come_VVI !_SENT -----_PUN 
 It_PNP 's_VBZ time_NN1 to_TO0 choose_VVI our_DPS boy_NN1 tribute_NN1 !_PUN 
@@ -1435,7 +1435,7 @@ I_PNP was_VBD too_AV0 sick_AJ0 and_CJC weak_AJ0 and_CJC tired_AJ0 ,_PUN oh_ITJ
 page35_UNC Let_VVB them_PNP call_VVI the_AT0 Peacekeepers_NN2 and_CJC take_VVB 
 us_PNP to_PRP the_AT0 community_NN1 home_AV0 ,_PUN I_PNP thought_VVD ._SENT 
 -----_PUN 
-Or_CJC better_AV0 yet_AV0 ,_PUN let_VVB me_PNP die_NN1 right_NN1 here_AV0 
+Or_CJC better_AV0 yet_AV0 ,_PUN let_VVB me_PNP die_NN1 right_AV0 here_AV0 
 in_PRP the_AT0 rain_NN1 ._SENT -----_PUN 
 There_EX0 was_VBD a_AT0 clatter_NN1 in_PRP the_AT0 bakery_NN1 and_CJC I_PNP 
 heard_VVD the_AT0 woman_NN1 screaming_VVG again_AV0 and_CJC the_AT0 sound_NN1 
@@ -1698,7 +1698,7 @@ one_PNI we_PNP ca_VM0 n't_XX0 afford_VVI ._SENT -----_PUN
 "_PUQ Then_AV0 take_VVB it_PNP ._SENT -----_PUN 
 And_CJC take_VVB care_NN1 of_PRF her_PNP !_PUN "_SENT -----_PUN 
 I_PNP say_VVB ._SENT -----_PUN 
-"_PUQ I_PNP 'll_VM0 be_VBI all_AV0 right_AJ0 ,_PUN Katniss_NP0 ,_PUN "_PUQ 
+"_PUQ I_PNP 'll_VM0 be_VBI all_AV0 right_AV0 ,_PUN Katniss_NP0 ,_PUN "_PUQ 
 says_VVZ Prim_NP0 ,_PUN clasping_VVG my_DPS face_NN1 in_PRP her_DPS hands_NN2 
 ._SENT -----_PUN 
 "_PUQ But_CJC you_PNP have_VHB to_TO0 take_VVI care_NN1 ,_PUN too_AV0 ._SENT 
@@ -3493,7 +3493,7 @@ City_NN1 Circle_NN1 ._SENT -----_PUN
 On_PRP the_AT0 buildings_NN2 that_CJT surround_VVB the_AT0 Circle_NN1 ,_PUN 
 every_AT0 window_NN1 is_VBZ packed_VVN with_PRP the_AT0 most_AV0 
 prestigious_AJ0 citizens_NN2 of_PRF the_AT0 Capitol_NP0 ._SENT -----_PUN 
-Our_DPS horses_NN2 pull_VVB our_DPS chariot_NN1 right_NN1 up_PRP to_PRP 
+Our_DPS horses_NN2 pull_VVB our_DPS chariot_NN1 right_AV0 up_PRP to_PRP 
 President_NP0 Snow_NP0 's_POS mansion_NN1 ,_PUN and_CJC we_PNP come_VVB to_PRP 
 a_AT0 halt_NN1 ._SENT -----_PUN 
 The_AT0 music_NN1 ends_VVZ with_PRP a_AT0 flourish_NN1 ._SENT -----_PUN 
